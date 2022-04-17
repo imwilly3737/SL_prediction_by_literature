@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27527858</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phosphatidylinositide 3-kinase (PI3K) and PI3K-related kinase (PIKK) activity contributes to radioresistance in thyroid carcinomas.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.18632/oncotarget.11056</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Anaplastic (ATC) and certain follicular thyroid-carcinomas (FTCs) are radioresistant. The Phosphatidylinositide 3-kinase (PI3K) pathway is commonly hyperactivated in thyroid-carcinomas. PI3K can modify the PI3K-related kinases (PIKKs) in response to radiation: How PIKKs interact with PI3K and contribute to radioresistance in thyroid-carcinomas is unknown. Further uncertainties exist in how these interactions function under the radioresistant hypoxic microenvironment.Under normoxia/anoxia, ATC (8505c) and FTC (FTC-133) cells were irradiated, with PI3K-inhibition (via GDC-0941 and PTEN-reconstitution into PTEN-null FTC-133s) and effects on PIKK-activation, DNA-damage, clonogenic-survival and cell cycle, assessed. FTC-xenografts were treated with 5 กั 2 Gy, กำ 50 mg/kg GDC-0941 (twice-daily; orally) for 14 days and PIKK-activation and tumour-growth assessed. PIKK-expression was additionally assessed in 12 human papillary thyroid-carcinomas, 13 FTCs and 12 ATCs.GDC-0941 inhibited radiation-induced activation of Ataxia-telangiectasia mutated (ATM), ATM-and Rad3-related (ATR) and DNA-dependent protein kinase catalytic subunit (DNA-PKcs). Inhibition of ATM and DNA-PKcs was PI3K-dependent, since activation was reduced in PTEN-reconstituted FTC-133s. Inhibition of PIKK-activation was greater under anoxia: Consequently, whilst DNA-damage was increased and prolonged under both normoxia and anoxia, PI3K-inhibition only reduced clonogenic-survival under anoxia. GDC-0941 abrogated radiation-induced cell cycle arrest, an effect most likely linked to the marked inhibition of ATR-activation. Importantly, GDC-0941 inhibited radiation-induced PIKK-activation in FTC-xenografts leading to a significant increase in time taken for tumours to triple in size: 26.5 กำ 5 days (radiation-alone) versus 31.5 กำ 5 days (dual-treatment). PIKKs were highly expressed across human thyroid-carcinoma classifications, with ATM scoring consistently lower. Interestingly, some loss of ATM and DNA-PKcs was observed. These data provide new insight into the mechanisms of hypoxia-associated radioresistance in thyro{id-carcinoma.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Burrows</LastName>
+                    <ForeName>Natalie</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hypoxia and Therapeutics Group, Manchester Pharmacy School, University of Manchester, Stopford Building, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Current address: School of Clinical Medicine, Cambridge Institute for Medical Research, University of Cambridge, Cambridge Biomedical Campus, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Williams</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hypoxia and Therapeutics Group, Manchester Pharmacy School, University of Manchester, Stopford Building, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Telfer</LastName>
+                    <ForeName>Brian A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hypoxia and Therapeutics Group, Manchester Pharmacy School, University of Manchester, Stopford Building, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Resch</LastName>
+                    <ForeName>Julia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental and Clinical Endocrinology, Medizinische Klinik I, Lubeck, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Valentine</LastName>
+                    <ForeName>Helen R</ForeName>
+                    <Initials>HR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Radiobiology Group, University of Manchester, Christie Hospital, NHS Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Fitzmaurice</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Histopathology, CSB1, Manchester Royal Infirmary, Manchester, M13 9WL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Eustace</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Radiobiology Group, University of Manchester, Christie Hospital, NHS Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Irlam</LastName>
+                    <ForeName>Joely</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Radiobiology Group, University of Manchester, Christie Hospital, NHS Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Rowling</LastName>
+                    <ForeName>Emily J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hypoxia and Therapeutics Group, Manchester Pharmacy School, University of Manchester, Stopford Building, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hoang-Vu</LastName>
+                    <ForeName>Cuong</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Martin Luther University of Halle-Wittenberg, Halle, Salle, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>West</LastName>
+                    <ForeName>Catharine M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Radiobiology Group, University of Manchester, Christie Hospital, NHS Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Radiotherapy Related Research Group, Manchester Cancer Research Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Brabant</LastName>
+                    <ForeName>Georg</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Experimental and Clinical Endocrinology, Medizinische Klinik I, Lubeck, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Williams</LastName>
+                    <ForeName>Kaye J</ForeName>
+                    <Initials>KJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hypoxia and Therapeutics Group, Manchester Pharmacy School, University of Manchester, Stopford Building, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Radiotherapy Related Research Group, Manchester Cancer Research Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ATM</Keyword>
+            <Keyword MajorTopicYN="N">ATR</Keyword>
+            <Keyword MajorTopicYN="N">DNA-PKcs</Keyword>
+            <Keyword MajorTopicYN="N">PI3K</Keyword>
+            <Keyword MajorTopicYN="N">radioresistance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">11056</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.11056</ArticleId>
+            <ArticleId IdType="pubmed">27527858</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

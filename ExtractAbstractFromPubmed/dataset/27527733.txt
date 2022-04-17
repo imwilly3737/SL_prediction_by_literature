@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27527733</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-7445</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer research</Title>
+                <ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Meeting Report: The Role of the Mobilome in Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4316-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/0008-5472.CAN-15-3421</ELocationID>
+            <Abstract>
+                <AbstractText>Approximately half of the human genome consists of repetitive sequence attributed to the activities of mobile DNAs, including DNA transposons, RNA transposons, and endogenous retroviruses. Of these, only long interspersed elements (LINE-1 or L1) and sequences copied by LINE-1 remain mobile in our species today. Although cells restrict L1 activity by both transcriptional and posttranscriptional mechanisms, L1 derepression occurs in developmental and pathologic contexts, including many types of cancers. However, we have limited knowledge of the extent and consequences of L1 expression in premalignancies and cancer. Participants in this NIH strategic workshop considered key questions to enhance our understanding of mechanisms and roles the mobilome may play in cancer biology. Cancer Res; 76(15); 4316-9. ?2016 AACR.</AbstractText>
+                <CopyrightInformation>?2016 American Association for Cancer Research.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ardeljan</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland. Medical Scientist Training Program, Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>Martin S</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burns</LastName>
+                    <ForeName>Kathleen H</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland. Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boeke</LastName>
+                    <ForeName>Jef D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Systems Genetics, New York University Langone Medical Center, New York, New York.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Espey</LastName>
+                    <ForeName>Michael Graham</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Biology, NCI, NIH, Rockville, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woodhouse</LastName>
+                    <ForeName>Elisa C</ForeName>
+                    <Initials>EC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Biology, NCI, NIH, Rockville, Maryland. woodhousee@mail.nih.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Howcroft</LastName>
+                    <ForeName>Thomas Kevin</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Biology, NCI, NIH, Rockville, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Res</MedlineTA>
+            <NlmUniqueID>2984705R</NlmUniqueID>
+            <ISSNLinking>0008-5472</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0008-5472.CAN-15-3421</ArticleId>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-15-3421</ArticleId>
+            <ArticleId IdType="pubmed">27527733</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

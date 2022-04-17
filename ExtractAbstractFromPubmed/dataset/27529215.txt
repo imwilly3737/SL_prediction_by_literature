@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529215</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ST6GALNAC5 Expression Decreases the Interactions between Breast Cancer Cells and the Human Blood-Brain Barrier.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">E1309</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">The ST6GALNAC5 gene that encodes an £\2,6-sialyltransferase involved in the biosynthesis of £\-series gangliosides, was previously identified as one of the genes that mediate breast cancer metastasis to the brain. We have shown that the expression of ST6GALNAC5 in MDA-MB-231 breast cancer cells resulted in the expression of GD1£\ ganglioside at the cell surface. By using a human blood-brain barrier in vitro model recently developed, consisting in CD34? derived endothelial cells co-cultivated with pericytes, we show that ST6GALNAC5 expression decreased the interactions between the breast cancer cells and the human blood-brain barrier.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Drolez</LastName>
+                    <ForeName>Aurore</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universit? d'Artois (UArtois), EA2465, Laboratoire de la Barri?re H?mato-Enc?phalique (LBHE), Lens F-62300, France. aurore.drolez@univ-artois.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Vandenhaute</LastName>
+                    <ForeName>Elodie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universit? d'Artois (UArtois), EA2465, Laboratoire de la Barri?re H?mato-Enc?phalique (LBHE), Lens F-62300, France. elodie.vandenhaute@univ-artois.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Delannoy</LastName>
+                    <ForeName>Cl?ment Philippe</ForeName>
+                    <Initials>CP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Structural and Functional Glycobiology Unit, Unit? Mixte de Recherche (UMR) du Centre National de la Recherche Scientifique (CNRS) 8576, University of Lille, Villeneuve d'Ascq F-59655, France. cl-ment.delannoy@etudiant.univ-lille1.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Dewald</LastName>
+                    <ForeName>Justine H?l?ne</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Structural and Functional Glycobiology Unit, Unit? Mixte de Recherche (UMR) du Centre National de la Recherche Scientifique (CNRS) 8576, University of Lille, Villeneuve d'Ascq F-59655, France. justine.dewald@etudiant.univ-lille1.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gosselet</LastName>
+                    <ForeName>Fabien</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universit? d'Artois (UArtois), EA2465, Laboratoire de la Barri?re H?mato-Enc?phalique (LBHE), Lens F-62300, France. fabien.gosselet@univ-artois.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Cecchelli</LastName>
+                    <ForeName>Romeo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universit? d'Artois (UArtois), EA2465, Laboratoire de la Barri?re H?mato-Enc?phalique (LBHE), Lens F-62300, France. romeo.cecchelli@univ-artois.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Julien</LastName>
+                    <ForeName>Sylvain</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cell Plasticity and Cancer, U908 INSERM, University of Lille, Villeneuve d'Ascq F-59655, France. sylvain.julien@univ-lille1.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Dehouck</LastName>
+                    <ForeName>Marie-Pierre</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universit? d'Artois (UArtois), EA2465, Laboratoire de la Barri?re H?mato-Enc?phalique (LBHE), Lens F-62300, France. mpierre.dehouck@univ-artois.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Delannoy</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Structural and Functional Glycobiology Unit, Unit? Mixte de Recherche (UMR) du Centre National de la Recherche Scientifique (CNRS) 8576, University of Lille, Villeneuve d'Ascq F-59655, France. philippe.delannoy@univ-lille1.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Mysiorek</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universit? d'Artois (UArtois), EA2465, Laboratoire de la Barri?re H?mato-Enc?phalique (LBHE), Lens F-62300, France. caroline.mysiorek@univ-artois.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">GD1£\</Keyword>
+            <Keyword MajorTopicYN="N">ST6GALNAC5</Keyword>
+            <Keyword MajorTopicYN="N">blood-brain barrier</Keyword>
+            <Keyword MajorTopicYN="N">brain metastasis</Keyword>
+            <Keyword MajorTopicYN="N">breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">gangliosides</Keyword>
+            <Keyword MajorTopicYN="N">sialyltransferase</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ijms17081309</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms17081309</ArticleId>
+            <ArticleId IdType="pubmed">27529215</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

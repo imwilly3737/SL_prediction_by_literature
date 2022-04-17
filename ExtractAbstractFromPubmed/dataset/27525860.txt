@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27525860</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1676-5680</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetics and molecular research : GMR</Title>
+                <ISOAbbreviation>Genet. Mol. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanism of juglone-induced apoptosis of MCF-7 cells by the mitochondrial pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4238/gmr.15038785</ELocationID>
+            <Abstract>
+                <AbstractText>This study investigated the nature and mechanism of juglone-induced apoptosis in the human breast cancer cell line MCF-7. The inhibitory effect of juglone on MCF-7 cell growth was evaluated by the dimethylthiazol tetrazolium assay. Morphological apoptotic changes were characterized using an inverted microscope, Hoechst 33258 fluorescence staining, and Giemsa staining. The rate of cell apoptosis, intracellular levels of reactive oxygen species (ROS), and mitochondrial membrane potential were detected using flow cytometry. Intracellular Ca(2+) concentrations were detected using laser scanning confocal fluorescence microscopy. Expression of the proteins Bcl-2, Bax, and cytochrome C was assessed by western blotting. Caspase-3 activity was quantified using a caspase-3 activity kit. Juglone inhibited the growth of MCF-7 cell line with an IC50 of 11.99 £gM. The rates of MCF-7 cell apoptosis at 24 h after exposure to 5, 10, and 20 £gM juglone were 9.29, 20.67, and 28.39%, respectively; compared to unexposed cells, juglone-exposed cells exhibited significant elevation in intracellular ROS level, decrease in mitochondrial membrane potential, and increase in intracellular Ca(2+) concentration. Juglone upregulated the expression of Bax, and downregulated the expression of Bcl-2, promoting the release of cytochrome C, thereby upregulating the activity of caspase-3. The results suggest that the mechanism of juglone-induced apoptosis in MCF-7 cells is characterized by elevated ROS levels, reduced Bcl-2 expression, increased Bax expression, decreased mitochondrial membrane potential, increased intracellular Ca(2+) concentration, outer mitochondrial-membrane rupture, cytochrome C release, and caspase-3 activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Y B</ForeName>
+                    <Initials>YB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Research and Development on Life Sciences and Environmental Sciences, Harbin University of Commerce, Harbin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xin</LastName>
+                    <ForeName>G S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Research and Development on Life Sciences and Environmental Sciences, Harbin University of Commerce, Harbin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qu</LastName>
+                    <ForeName>Z Y</ForeName>
+                    <Initials>ZY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Research and Development on Life Sciences and Environmental Sciences, Harbin University of Commerce, Harbin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zou</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Research and Development on Life Sciences and Environmental Sciences, Harbin University of Commerce, Harbin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Research and Development on Life Sciences and Environmental Sciences, Harbin University of Commerce, Harbin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>Genet Mol Res</MedlineTA>
+            <NlmUniqueID>101169387</NlmUniqueID>
+            <ISSNLinking>1676-5680</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">gmr8785</ArticleId>
+            <ArticleId IdType="doi">10.4238/gmr.15038785</ArticleId>
+            <ArticleId IdType="pubmed">27525860</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

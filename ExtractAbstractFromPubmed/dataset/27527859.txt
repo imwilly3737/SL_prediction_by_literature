@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27527859</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulation of cellular quiescence by YAP/TAZ and Cyclin E1 in colon cancer cells: Implication in chemoresistance and cancer relapse.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.18632/oncotarget.11057</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Our aim was to decipher the role and clinical relevance of the YAP/TAZ transcriptional coactivators in the regulation of the proliferation/quiescence balance in human colon cancer cells (CCC) and survival after 5FU-based chemotherapy. The prognostic value of YAP/TAZ on tumor relapse and overall survival was assessed in a five-year follow-up study using specimens of liver metastases (n = 70) from colon cancer patients. In 5FU-chemoresistant HT29-5F31 and -chemosensitive HCT116 and RKO CCC, a reversible G0 quiescent state mediated by Cyclin E1 down-regulation was induced by 5FU in 5F31 cells and recapitulated in CCC by either YAP/TAZ or Cyclin E1 siRNAs or the YAP inhibitor Verteporfin. Conversely, the constitutive active YAPdc-S127A mutant restricted cellular quiescence in 5FU-treated 5F31 cells and sustained high Cyclin E1 levels through CREB Ser-133 phosphorylation and activation. In colon cancer patients, high YAP/TAZ level in residual liver metastases correlated with the proliferation marker Ki-67 (p &lt; 0.0001), high level of the YAP target CTGF (p = 0.01), shorter disease-free and overall survival (p = 0.008 and 0.04, respectively). By multivariate analysis and Cox regression model, the YAP/TAZ level was an independent factor of overall (Hazard ratio [CI 95%] 2.06 (1.02-4.16) p = 0.045) and disease-free survival (Hazard ratio [CI 95%] 1.98 (1.01-3.86) p = 0.045). Thus, YAP/ TAZ pathways contribute to the proliferation/quiescence switch during 5FU treatment according to the concerted regulation of Cyclin E1 and CREB. These findings provide a rationale for therapeutic interventions targeting these transcriptional regulators in patients with residual chemoresistant liver metastases expressing high YAP/TAZ levels.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Corvaisier</LastName>
+                    <ForeName>Matthieu</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Bauzone</LastName>
+                    <ForeName>Marjolaine</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Corfiotti</LastName>
+                    <ForeName>Fran?ois</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Surgery and Transplantation, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Renaud</LastName>
+                    <ForeName>Florence</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Biology-Pathology, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>El Amrani</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Surgery and Transplantation, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Mont?</LastName>
+                    <ForeName>Didier</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UMR8576 CNRS-Universit? de Lille Nord de France, F-59658, Villeneuve d'Ascq, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Truant</LastName>
+                    <ForeName>St?phanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Digestive Surgery and Transplantation, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Leteurtre</LastName>
+                    <ForeName>Emmanuelle</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Biology-Pathology, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Formstecher</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Van Seuningen</LastName>
+                    <ForeName>Isabelle</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gespach</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM U938, &quot;Molecular and Clinical Oncology&quot;, H?pital Saint-Antoine, University Pierre et Marie Curie, F-75012, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Huet</LastName>
+                    <ForeName>Guillemette</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Univ.Lille, Inserm, CHU Lille, UMR-S1172-JPARC-Jean-Pierre Aubert Research Center, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Biology-Pathology, CHRU Lille, F-59000, Lille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CREB</Keyword>
+            <Keyword MajorTopicYN="N">c-Myc</Keyword>
+            <Keyword MajorTopicYN="N">liver metastases</Keyword>
+            <Keyword MajorTopicYN="N">prognosis</Keyword>
+            <Keyword MajorTopicYN="N">stemness</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">11057</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.11057</ArticleId>
+            <ArticleId IdType="pubmed">27527859</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

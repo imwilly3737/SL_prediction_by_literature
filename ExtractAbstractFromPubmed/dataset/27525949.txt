@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27525949</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1676-5680</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetics and molecular research : GMR</Title>
+                <ISOAbbreviation>Genet. Mol. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>cDNA cloning, characterization, and pharmacologic evaluation of anticancer activity of a lectin gene in Pinellia integrifolia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4238/gmr.15038516</ELocationID>
+            <Abstract>
+                <AbstractText>Plant lectins are proteins that possess at least one non-catalytic domain, which could reversibly bind to specific monosaccharides or oligosaccharides. The important roles played by plant lectins in immune regulation, signaling pathways, and plant defense could be attributed to their specific binding activities with carbohydrates. In this study, a Pinellia integrifolia lectin gene, designated pia, was cloned using rapid amplification of cDNA ends. The open reading frame (ORF) of pia was constructed into the pET-28a vector, and a 33-kDa recombinant protein was induced in Escherichia coli BL21. The hemagglutination and anticancer properties of the purified recombinant protein were assayed in vitro. The results indicated that the full-length cDNA of pia was 1210 bp long, containing an 807-bp ORF encoding a 268-amino acid peptide. The putative P. integrifolia lectin protein (PIA) contained three mannose-binding sites. The agglutinating activity exhibited by PIA was inhibited by D-mannose. PIA was also shown to exert an anti-proliferative activity against nasopharyngeal carcinoma, human cervical carcinoma, and human breast cancer cell lines in vitro. These results could be applied to determine the function of PIA in the future.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>L L</ForeName>
+                    <Initials>LL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Southwest China Wildlife Resources Conservation, Ministry of Education, China West Normal University, Sichuan, Nanchong, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Biorheological Science and Technology, Ministry of Education, Chongqing University, Chongqing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Z J</ForeName>
+                    <Initials>ZJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Southwest China Wildlife Resources Conservation, Ministry of Education, China West Normal University, Sichuan, Nanchong, China yangzaijun1@126.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Z S</ForeName>
+                    <Initials>ZS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Southwest China Wildlife Resources Conservation, Ministry of Education, China West Normal University, Sichuan, Nanchong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>Genet Mol Res</MedlineTA>
+            <NlmUniqueID>101169387</NlmUniqueID>
+            <ISSNLinking>1676-5680</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">gmr8516</ArticleId>
+            <ArticleId IdType="doi">10.4238/gmr.15038516</ArticleId>
+            <ArticleId IdType="pubmed">27525949</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

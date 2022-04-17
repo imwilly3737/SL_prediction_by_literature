@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529701</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mitosis Counting in Breast Cancer: Object-Level Interobserver Agreement and Comparison to an Automatic Method.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0161286</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1371/journal.pone.0161286</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Tumor proliferation speed, most commonly assessed by counting of mitotic figures in histological slide preparations, is an important biomarker for breast cancer. Although mitosis counting is routinely performed by pathologists, it is a tedious and subjective task with poor reproducibility, particularly among non-experts. Inter- and intraobserver reproducibility of mitosis counting can be improved when a strict protocol is defined and followed. Previous studies have examined only the agreement in terms of the mitotic count or the mitotic activity score. Studies of the observer agreement at the level of individual objects, which can provide more insight into the procedure, have not been performed thus far.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The development of automatic mitosis detection methods has received large interest in recent years. Automatic image analysis is viewed as a solution for the problem of subjectivity of mitosis counting by pathologists. In this paper we describe the results from an interobserver agreement study between three human observers and an automatic method, and make two unique contributions. For the first time, we present an analysis of the object-level interobserver agreement on mitosis counting. Furthermore, we train an automatic mitosis detection method that is robust with respect to staining appearance variability and compare it with the performance of expert observers on an &quot;external&quot; dataset, i.e. on histopathology images that originate from pathology labs other than the pathology lab that provided the training data for the automatic method.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The object-level interobserver study revealed that pathologists often do not agree on individual objects, even if this is not reflected in the mitotic count. The disagreement is larger for objects from smaller size, which suggests that adding a size constraint in the mitosis counting protocol can improve reproducibility. The automatic mitosis detection method can perform mitosis counting in an unbiased way, with substantial agreement with human experts.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Veta</LastName>
+                    <ForeName>Mitko</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Image Analysis Group (IMAG/e), Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>van Diest</LastName>
+                    <ForeName>Paul J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Jiwa</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Al-Janabi</LastName>
+                    <ForeName>Shaimaa</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, VU University Medical Center, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Pluim</LastName>
+                    <ForeName>Josien P W</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Image Analysis Group (IMAG/e), Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Image Sciences Institute, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0161286</ArticleId>
+            <ArticleId IdType="pii">PONE-D-16-20890</ArticleId>
+            <ArticleId IdType="pubmed">27529701</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

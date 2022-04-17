@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">27526449</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1000-1182</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hua xi kou qiang yi xue za zhi = Huaxi kouqiang yixue zazhi = West China journal of stomatology</Title>
+                <ISOAbbreviation>Hua Xi Kou Qiang Yi Xue Za Zhi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Effects and mechanism of the circadian clock gene Per1 on the proliferation, apoptosis, cycle, and tumorigenicity in vivo of human oral squamous cell carcinoma].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>255-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the regulatory effects of the circadian clock gene Per1 on cell cycle-related genes and its influence on the proliferation, apoptosis, cycle, and tumorigenicity in vivo of human oral squamous cell carcinoma SCC15 cells.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Three groups of the short hairpin RNA (shRNA) of lentivirus recombinant plasmids were designed against the RNA of Per1 and then transfected to the SCC15 cells. The optimum interference group was screened through Western blot and quantitative real-time PCR (qRT-PCR) and assigned as the experimental group. The transfected lentivirus plasmid without an interference effect on any gene was set as the control group (Control-shRNA). Untreated SCC15 cells were set as the blank group. The mRNA expressions of cell cycle-related genes, namely, Per1, p53, Cyclin D1, Cyclin E, Cyclin A2, Cyclin B1, CDK1, CDK2, CDK4, CDK6, p16, p21, Wee1, cdc25, E2F, and Rbl1 in each group were detected through qRT-PCR. The cell proliferation, apoptosis, and cell cycle distribution in each group were evaluated through flow cytometry. The cells of the experimental group and the blank group were subcutaneously inoculated in nude mice to observe tumorigenesis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Three groups of Per1-shRNA lentivirus plasmids were constructed successfully. Among the groups, the Per1-shRNA- I group exhibited the highest interference effect, as indicated by qRT-PCR and Western blot analysis. As such, this group was set as the experimental group. The mRNA expression levels of CyclinD1, CyclinE, CyclinB1, CDK1, and Wee1 gene in the Per1-shRNA-I group were significantly higher than those in the Control-shRNA group and the SCC15 group (P &lt; 0.05). By contrast, the mRNA expression levels of p53, Cyclin A2, p16, p21, and cdc25 in the Per1-shRNA-I group were significantly lower than those in the Control-shRNA group and the SCC15 group (P &lt; 0.05). The mRNA expression levels of each gene between the Control-sLRNA group and the SCC15 group did not significantly differ (P &gt; 0.05). The mRNA expression levels of CDK2, CDK4, CDK6, E2F, and Rb1 did not significantly differed in the three groups (P &gt; 0.05). The proliferation index of the Perl-shRNA-I group was significantly higher than those of the Control-shRNA group and the SCC15 group (P &lt; 0.05). The apoptosis index of the Per1-shRNA-I group was significantly lower than those of the Control-shRNA group and the SCC15 group (P &lt; 0.05). The number of S-phase cells in the Per1-shRNA-I group was significantly lower than those of S-phase cells in the Control-shRNA group and the SCC15 group (P &lt; 0.05). The number of G2/M-phase cells in the Per1-shRNA-I group was significantly higher than those of G2/M-phase cells in the Control-shRNA group and the SCC15 group (P &lt; 0.05). Conversely, the proliferation index, apoptotic index, and cell cycle distribution of the cells in the Control-shRNA group did not significantly differ from those of the SCC15 group (P &gt; 0.05). The tumorigenic ability in vivo was significantly enhanced in the Per1-shRNA-I group (P &lt; 0.05).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Per1 is an important tumor suppressor gene. Per1 can regulate a large number of downstream cell cycle-related genes. The alteration of its expression can affect cell cycle progression, proliferation, apoptosis imbalance, and tumorigenic ability in vivo. Further studies on Per1 may elucidate cancer development and provide novel effective molecular targets for cancer treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xiaojuan</LastName>
+                    <ForeName>Fu</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kai</LastName>
+                    <ForeName>Yang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanxue</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qin</LastName>
+                    <ForeName>Zhao</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dan</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Hua Xi Kou Qiang Yi Xue Za Zhi</MedlineTA>
+            <NlmUniqueID>9422648</NlmUniqueID>
+            <ISSNLinking>1000-1182</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>D</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27526449</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

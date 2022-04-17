@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528036</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>9</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pregnancy-specific glycoprotein 9 (PSG9), a driver for colorectal cancer, enhances angiogenesis via activation of SMAD4.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.18632/oncotarget.11146</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">PSG9 is a member of the pregnancy-specific glycoprotein (PSG) family and has been shown to contribute to the progression of colorectal cancer (CRC) and cancer-related angiogenesis. Here, we aim to investigate abnormal PSG9 levels in patients with CRC and to emphasize the role of PSG9 in driving tumorigenesis. Serum from 140 patients with CRC and 125 healthy controls as well as 74 paired tumors and adjacent normal tissue were used to determine PSG9 levels. We discovered that PSG9 was significantly increased in serum (P&lt;0.001) and in tumor tissues (P&lt;0.001) from patients with CRC. Interestingly, the increased PSG9 levels correlated with poor survival (P=0.009) and microvessel density (MVD) (P=0.034). The overexpression of PSG9 strongly promoted the proliferation and migration of HCT-116 and HT-29 cells. However, PSG9 depletion inhibited the proliferation of SW-480 cells. Using a human umbilical vein endothelial cell tube-forming assay, we found that PSG9 promoted angiogenesis. The overexpression of PSG9 also increased the growth of tumor xenografts in nude mice. Co-immunoprecipitation experiments revealed that PSG9 was bound to SMAD4. The PSG9/SMAD4 complex recruited cytoplasmic SMAD2/3 to form a complex, which enhanced SMAD4 nuclear retention. The PSG9 and SMAD4 complex activated the expression of multiple angiogenesis-related genes (included IGFBP-3, PDGF-AA, GM-CSF, and VEGFA). Together, our findings illustrate the innovative mechanism by which PSG9 drives the progression of CRC and tumor angiogenesis. This occurs via nuclear translocation of PSG9/SMAD4, which activates angiogenic cytokines. Therefore, our study may provide evidence for novel treatment strategies by targeting PSG9 in antiangiogenic cancer therapy.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Yang</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Center, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hu</LastName>
+                    <ForeName>Shusheng</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Laboratory Department, Tianjin Medical University Cancer Institute and Hospital, Tianjin, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tan</LastName>
+                    <ForeName>Jinjing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular and Molecular Biology, Beijing Chest Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaojing</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncology Department, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Yuan</LastName>
+                    <ForeName>Wen</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Center, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Wang</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncology Department, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Xu</LastName>
+                    <ForeName>Lingling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncology Department, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Liu</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Center, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Liu</LastName>
+                    <ForeName>Zheng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Center, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Jia</LastName>
+                    <ForeName>Yanjun</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Center, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Huang</LastName>
+                    <ForeName>Xiaoxi</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Research Center, Beijing Chaoyang Hospital, Capital Medical University, Beijing, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PSG9</Keyword>
+            <Keyword MajorTopicYN="N">SMAD4</Keyword>
+            <Keyword MajorTopicYN="N">angiogenesis</Keyword>
+            <Keyword MajorTopicYN="N">colorectal cancer (CRC)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">11146</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.11146</ArticleId>
+            <ArticleId IdType="pubmed">27528036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27526932</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-5550</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current protein &amp; peptide science</Title>
+                <ISOAbbreviation>Curr. Protein Pept. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functions of Antimicrobial Peptides in Vertebrates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this review is to examine the multiple activities of antimicrobial peptides (AMPs) in vertebrates.</AbstractText>
+                <AbstractText Label="CONTENT" NlmCategory="BACKGROUND">The largest AMP families are the cathelicidins and defensins, but several peptides derived from bigger proteins have also been reported. Cathelicidins are characterized by a conserved N-terminal pro-region and a variable region that encodes the C-terminal mature peptide. The £]-defensins comprise a large family of AMPs that have diversified their functions, apparently without losing their antimicrobial activity. Cathelicidins and £]-defensins are present in all vertebrates studied so far; £\-defensins are present in mammals, while £c-defensins are only present in some non-human primates. The AMPs are regulated by posttranslational modifications that mainly include proteolysis, amidation, ADP-ribosylation, glycosylation and phosphorylation. In addition to their antimicrobial effects, AMPs show activity against viral particles and interfere in different steps of virus replication. Moreover, AMPs may both promote and inhibit cancer growth: several vertebrate AMPs kill cancer cells, and some tumors grow in an environment wherein the expression of £]-defensins is reduced; however, human cathelicidin and some £]-defensins are overexpressed in several types of cancer and are correlated with tumor growth. AMPs are part of the complex network of cells and molecules that forms the vertebrate innate defense system and they induce adaptive responses. In addition, they participate in sperm maturation and male reproduction.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">AMPs are multifunctional peptides that participate in immune responses, wound healing, angiogenesis, toxin neutralization, iron metabolism, male reproduction, among other functions. However, AMPs may also contribute to excessive inflammation and tumorigenesis.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Avila</LastName>
+                    <ForeName>Eva Edilia</ForeName>
+                    <Initials>EE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Biologia, Division de Ciencias Naturales y Exactas, Universidad de Guanajuato, Guanajuato, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Curr Protein Pept Sci</MedlineTA>
+            <NlmUniqueID>100960529</NlmUniqueID>
+            <ISSNLinking>1389-2037</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">CPPS-EPUB-77731</ArticleId>
+            <ArticleId IdType="pubmed">27526932</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529227</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of a Modular Assay for Detailed Immunophenotyping of Peripheral Human Whole Blood Samples by Multicolor Flow Cytometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">E1316</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">The monitoring of immune cells gained great significance in prognosis and prediction of therapy responses. For analyzing blood samples, the multicolor flow cytometry has become the method of choice as it combines high specificity on single cell level with multiple parameters and high throughput. Here, we present a modular assay for the detailed immunophenotyping of blood (DIoB) that was optimized for an easy and direct application in whole blood samples. The DIoB assay characterizes 34 immune cell subsets that circulate the peripheral blood including all major immune cells such as T cells, B cells, natural killer (NK) cells, monocytes, dendritic cells (DCs), neutrophils, eosinophils, and basophils. In addition, it evaluates their functional state and a few non-leukocytes that also have been associated with the outcome of cancer therapy. This DIoB assay allows a longitudinal and close-meshed monitoring of a detailed immune status in patients requiring only 2.0 mL of peripheral blood and it is not restricted to peripheral blood mononuclear cells. It is currently applied for the immune monitoring of patients with glioblastoma multiforme (IMMO-GLIO-01 trial, NCT02022384), pancreatic cancer (CONKO-007 trial, NCT01827553), and head and neck cancer (DIREKHT trial, NCT02528955) and might pave the way for immune biomarker identification for prediction and prognosis of therapy outcome.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>R?hle</LastName>
+                    <ForeName>Paul F</ForeName>
+                    <Initials>PF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Universit?tsklinikum Erlangen, Friedrich-Alexander-Universit?t Erlangen-N?rnberg, Erlangen 91054, Germany. paul.ruehle@uk-erlangen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Fietkau</LastName>
+                    <ForeName>Rainer</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Universit?tsklinikum Erlangen, Friedrich-Alexander-Universit?t Erlangen-N?rnberg, Erlangen 91054, Germany. rainer.fietkau@uk-erlangen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gaipl</LastName>
+                    <ForeName>Udo S</ForeName>
+                    <Initials>US</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Universit?tsklinikum Erlangen, Friedrich-Alexander-Universit?t Erlangen-N?rnberg, Erlangen 91054, Germany. udo.gaipl@uk-erlangen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Frey</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Universit?tsklinikum Erlangen, Friedrich-Alexander-Universit?t Erlangen-N?rnberg, Erlangen 91054, Germany. benjamin.frey@uk-erlangen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">adaptive immune system</Keyword>
+            <Keyword MajorTopicYN="N">immune monitoring</Keyword>
+            <Keyword MajorTopicYN="N">immunophenotyping</Keyword>
+            <Keyword MajorTopicYN="N">innate immune system</Keyword>
+            <Keyword MajorTopicYN="N">liquid biopsy</Keyword>
+            <Keyword MajorTopicYN="N">multicolor flow cytometry</Keyword>
+            <Keyword MajorTopicYN="N">whole blood</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ijms17081316</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms17081316</ArticleId>
+            <ArticleId IdType="pubmed">27529227</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

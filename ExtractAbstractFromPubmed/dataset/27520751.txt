@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">27520751</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1172-7047</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>CNS drugs</Title>
+                <ISOAbbreviation>CNS Drugs</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>RMP-7 : Potential as an Adjuvant to the Drug Treatment of Brain Tumours.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>257-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2165/00023210-199707040-00001</ELocationID>
+            <Abstract>
+                <AbstractText>The chemotherapy of tumours located in the brain is far from satisfactory, with very poor response rates even with tumour types known to be sensitive when they occur extracranially. The brain is protected by the blood-brain barrier, which consists of tight capillary endothelial cell junctions. As a result, many drugs cannot penetrate into the tumour to achieve cytotoxic concentrations. Although the vasculature of some tumours may allow greater uptake of drugs than into normal brain tissue, the poor uptake of drugs into CNS tumours is still seen as a barrier to effective chemotherapy.The permeability of the blood-brain barrier may be affected by osmotic agents or mediators of inflammation. Notable among the latter is bradykinin, which induces a transient, specific increase in permeability that is more pronounced in tumour than in normal brain.The nonapeptide RMP-7 [H-Arg-Pro-Hyp-Gly-Thi-Ser-Pro-Tyr(Me)-£r(CH2NH)-Arg-OH] was developed as a bradykinin analogue. This peptide displays greater stability in plasma than the parent compound. Preclinical investigations in animal tumour models showed that RMP-7 increased the uptake of a number of markers in RG2 gliomas implanted into rat brain. More importantly, RMP-7 also increased carboplatin uptake in the tumour and brain surrounding the tumour, without affecting uptake into normal brain. Animals treated with RMP-7 and carboplatin showed significantly prolonged survival compared with controls. The doses used in these animal studies were quite high, administered via the intracarotid artery.In studies in humans, lower doses of RMP-7 were used and the drug was usually administered intravenously. Adverse effects were mild and transient, mostly related to vasodilation. Phase I and II studies in patients with brain tumours confirmed the increased uptake of radiochemical markers into tumours that had been seen in animal models. Recently published data suggest that the combination of carboplatin with RMP-7 has activity in malignant brain tumours, both in terms of neurological improvement and overall survival, and was well tolerated. In particular, the neurotoxicity reported with other methods of increasing blood-brain barrier permeability has not been reported. Using a reliable method of individualised carboplatin administration, based on renal function, any effect of RMP-7 on the elimination of carboplatin may be determined.Overall, the use of RMP-7 as an adjunct to the treatment of tumours within the CNS may potentially be effective in terms of increasing tumour drug concentrations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boddy</LastName>
+                    <ForeName>A V</ForeName>
+                    <Initials>AV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Unit, The Medical School, University of Newcastle, Framlington Place, Newcastle upon Tyne, NE2 4HH, England. alan.boddy@newcastle.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>H D</ForeName>
+                    <Initials>HD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Unit, The Medical School, University of Newcastle, Framlington Place, Newcastle upon Tyne, NE2 4HH, England.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>CNS Drugs</MedlineTA>
+            <NlmUniqueID>9431220</NlmUniqueID>
+            <ISSNLinking>1172-7047</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.2165/00023210-199707040-00001</ArticleId>
+            <ArticleId IdType="pii">10.2165/00023210-199707040-00001</ArticleId>
+            <ArticleId IdType="pubmed">27520751</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529512</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-1827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of cancer</Title>
+                <ISOAbbreviation>Br. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Combined PI3K and CDK2 inhibition induces cell death and enhances in vivo antitumour activity in colorectal cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1038/bjc.2016.238</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The phosphatidylinositol-3-kinase/mammalian target of rapamycin (PI3K/mTOR) pathway is commonly deregulated in human cancer, hence many PI3K and mTOR inhibitors have been developed and have now reached clinical trials. Similarly, CDKs have been investigated as cancer drug targets.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We have synthesised and characterised a series of 6-aminopyrimidines identified from a kinase screen that inhibit PI3K and/or mTOR and/or CDK2. Kinase inhibition, tumour cell growth, cell cycle distribution, cytotoxicity and signalling experiments were undertaken in HCT116 and HT29 colorectal cancer cell lines, and in vivo HT29 efficacy studies.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">2,6-Diaminopyrimidines with an O(4)-cyclohexylmethyl substituent and a C-5-nitroso or cyano group (1,2,5) induced cell cycle phase alterations and were growth inhibitory (GI50&lt;20?£gM). Compound 1, but not 2 or 5, potently inhibits CDK2 (IC50=0.1?nM) as well as PI3K, and was cytotoxic at growth inhibitory concentrations. Consistent with kinase inhibition data, compound 1 reduced phospho-Rb and phospho-rS6 at GI50 concentrations. Combination of NU6102 (CDK2 inhibitor) and pictilisib (GDC-0941; pan-PI3K inhibitor) resulted in synergistic growth inhibition, and enhanced cytotoxicity in HT29 cells in vitro and HT29 tumour growth inhibition in vivo.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These studies identified a novel series of mixed CDK2/PI3K inhibitors and demonstrate that dual targeting of CDK2 and PI3K can result in enhanced antitumour activity.British Journal of Cancer advance online publication 16 August 2016; doi:10.1038/bjc.2016.238 www.bjcancer.com.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Beale</LastName>
+                    <ForeName>Gary</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, Paul O'Gorman Building, Medical School, Newcastle University, Framlington Place, Newcastle-upon-Tyne NE2 4HH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Haagensen</LastName>
+                    <ForeName>Emma J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, Paul O'Gorman Building, Medical School, Newcastle University, Framlington Place, Newcastle-upon-Tyne NE2 4HH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Thomas</LastName>
+                    <ForeName>Huw D</ForeName>
+                    <Initials>HD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, Paul O'Gorman Building, Medical School, Newcastle University, Framlington Place, Newcastle-upon-Tyne NE2 4HH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Wang</LastName>
+                    <ForeName>Lan-Zhen</ForeName>
+                    <Initials>LZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, Paul O'Gorman Building, Medical School, Newcastle University, Framlington Place, Newcastle-upon-Tyne NE2 4HH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Revill</LastName>
+                    <ForeName>Charlotte H</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, School of Chemistry, Newcastle University, Bedson Building, Newcastle NE1 7RU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Payne</LastName>
+                    <ForeName>Sara L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, School of Chemistry, Newcastle University, Bedson Building, Newcastle NE1 7RU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Golding</LastName>
+                    <ForeName>Bernard T</ForeName>
+                    <Initials>BT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, School of Chemistry, Newcastle University, Bedson Building, Newcastle NE1 7RU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hardcastle</LastName>
+                    <ForeName>Ian R</ForeName>
+                    <Initials>IR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, School of Chemistry, Newcastle University, Bedson Building, Newcastle NE1 7RU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Newell</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, Paul O'Gorman Building, Medical School, Newcastle University, Framlington Place, Newcastle-upon-Tyne NE2 4HH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Griffin</LastName>
+                    <ForeName>Roger J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, School of Chemistry, Newcastle University, Bedson Building, Newcastle NE1 7RU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Cano</LastName>
+                    <ForeName>Celine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Newcastle Cancer Centre, Northern Institute for Cancer Research, School of Chemistry, Newcastle University, Bedson Building, Newcastle NE1 7RU, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Br J Cancer</MedlineTA>
+            <NlmUniqueID>0370635</NlmUniqueID>
+            <ISSNLinking>0007-0920</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">bjc2016238</ArticleId>
+            <ArticleId IdType="doi">10.1038/bjc.2016.238</ArticleId>
+            <ArticleId IdType="pubmed">27529512</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27528579</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-7445</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer research</Title>
+                <ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Inaugural Use of Gene Editing for the Study of Tumor Suppressor Pathways in Human Cells-p21WAF1/CIP1.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4598-601</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/0008-5472.CAN-16-1972</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Waldman</LastName>
+                    <ForeName>Todd</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lombardi Comprehensive Cancer Center, Georgetown University School of Medicine, Washington, DC. waldmant@georgetown.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Res</MedlineTA>
+            <NlmUniqueID>2984705R</NlmUniqueID>
+            <ISSNLinking>0008-5472</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">76/16/4598</ArticleId>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-16-1972</ArticleId>
+            <ArticleId IdType="pubmed">27528579</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

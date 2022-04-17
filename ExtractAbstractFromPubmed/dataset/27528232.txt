@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528232</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PPAR£^ agonists promote differentiation of cancer stem cells by restraining YAP transcriptional activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.18632/oncotarget.11273</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Osteosarcoma (OS) is a highly aggressive pediatric bone cancer in which most tumor cells remain immature and fail to differentiate into bone-forming osteoblasts. However, OS cells readily respond to adipogenic stimuli suggesting they retain mesenchymal stem cell-like properties. Here we demonstrate that nuclear receptor PPAR£^ agonists such as the anti-diabetic, thiazolidinedione (TZD) drugs induce growth arrest and cause adipogenic differentiation in human, mouse and canine OS cells as well as in tumors in mice. Gene expression analysis reveals that TZDs induce lipid metabolism pathways while suppressing targets of the Hippo-YAP pathway, Wnt signaling and cancer-related proliferation pathways. Significantly, TZD action appears to be restricted to the high Sox2 expressing cancer stem cell population and is dependent on PPAR£^ expression. TZDs also affect growth and cell fate by causing the cytoplasmic sequestration of the transcription factors SOX2 and YAP that are required for tumorigenicity. Finally, we identify a TZD-regulated gene signature based on Wnt/Hippo target genes and PPAR£^ that predicts patient outcomes. Together, this work highlights a novel connection between PPAR£^ agonist in inducing adipogenesis and mimicking the tumor suppressive hippo pathway. It also illustrates the potential of drug repurposing for TZD-based differentiation therapy for osteosarcoma.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Basu-Roy</LastName>
+                    <ForeName>Upal</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Han</LastName>
+                    <ForeName>Eugenia</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Perlmutter Cancer Center, Langone Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Rattanakorn</LastName>
+                    <ForeName>Kirk</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gadi</LastName>
+                    <ForeName>Abhilash</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Verma</LastName>
+                    <ForeName>Narendra</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Maurizi</LastName>
+                    <ForeName>Giulia</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gunaratne</LastName>
+                    <ForeName>Preethi H</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Biochemistry, University of Houston, Houston, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Coarfa</LastName>
+                    <ForeName>Cristian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kennedy</LastName>
+                    <ForeName>Oran D</ForeName>
+                    <Initials>OD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthopaedic Surgery, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Garabedian</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Perlmutter Cancer Center, Langone Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Basilico</LastName>
+                    <ForeName>Claudio</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Perlmutter Cancer Center, Langone Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Mansukhani</LastName>
+                    <ForeName>Alka</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, NYU School of Medicine, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Perlmutter Cancer Center, Langone Medical Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">adipocyte</Keyword>
+            <Keyword MajorTopicYN="N">cancer stem cells</Keyword>
+            <Keyword MajorTopicYN="N">osteoblast lineage</Keyword>
+            <Keyword MajorTopicYN="N">osteosarcoma</Keyword>
+            <Keyword MajorTopicYN="N">thiazolidinediones</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">11273</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.11273</ArticleId>
+            <ArticleId IdType="pubmed">27528232</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

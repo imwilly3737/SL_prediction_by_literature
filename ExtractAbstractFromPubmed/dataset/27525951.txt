@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27525951</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1676-5680</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetics and molecular research : GMR</Title>
+                <ISOAbbreviation>Genet. Mol. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Target fishing of glycopentalone using integrated inverse docking and reverse pharmacophore mapping approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4238/gmr.15038544</ELocationID>
+            <Abstract>
+                <AbstractText>Glycopentalone isolated from Glycosmis pentaphylla (family Rutaceae) has cytotoxic and apoptosis inducing effects in various human cancer cell lines; however, its mode of action is not known. Therefore, target fishing of glycopentalone using a combined approach of inverse docking and reverse pharmacophore mapping approach was used to identify potential targets of glycopentalone, and gain insight into its binding modes against the selected molecular targets, viz., CDK-2, CDK-6, Topoisomerase I, Bcl-2, VEGFR-2, Telomere:G-quadruplex and Topoisomerase II. These targets were chosen based on their key roles in the progression of cancer via regulation of cell cycle and DNA replication. Molecular docking analysis revealed that glycopentalone displayed binding energies ranging from -6.38 to -8.35 kcal/mol and inhibition constants ranging from 0.758 to 20.90 £gM. Further, the binding affinities of glycopentalone to the targets were in the order: Telomere:G-quadruplex &gt; VEGFR-2 &gt; CDK-6 &gt; CDK-2 &gt; Topoisomerase II &gt; Topoisomerase I &gt; Bcl-2. Binding mode analysis revealed critical hydrogen bonds as well as hydrophobic interactions with the targets. The targets were validated by reverse pharmacophore mapping of glycopentalone against a set of 2241 known human target proteins which revealed CDK-2 and VEGFR-2 as the most favorable targets. The glycopentalone was well mapped to CDK-2 and VEGFR-2 which involve six pharmacophore features (two hydrophobic centers and four hydrogen bond acceptors) and nine pharmacophore features (five hydrophobic, two hydrogen bond acceptors and two hydrogen bond donors), respectively. The present computational approach may aid in rational identification of targets for small molecules against large set of candidate macromolecules before bioassays validation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gurung</LastName>
+                    <ForeName>A B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology and Bioinformatics, North Eastern Hill University, Shillong, Meghalaya, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ali</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Botany and Microbiology, College of Science, King Saud University, Riyadh, Saudi Arabia alimohammad@ksu.edu.sa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhattacharjee</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology and Bioinformatics, North Eastern Hill University, Shillong, Meghalaya, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Anazi</LastName>
+                    <ForeName>K M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, College of Science, King Saud University, Riyadh, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farah</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, College of Science, King Saud University, Riyadh, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Hemaid</LastName>
+                    <ForeName>F M</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Botany and Microbiology, College of Science, King Saud University, Riyadh, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abou-Tarboush</LastName>
+                    <ForeName>F M</ForeName>
+                    <Initials>FM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, College of Science, King Saud University, Riyadh, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Environment and Forest Resources, Chungnam National University, Daehak-ro, Yuseong-gu, Daejeon, Republic of South Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>S Y</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Biological Material Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon, Republic of South Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Anazi</LastName>
+                    <ForeName>F S M</ForeName>
+                    <Initials>FS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Botany and Microbiology, College of Science, King Saud University, Riyadh, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>Genet Mol Res</MedlineTA>
+            <NlmUniqueID>101169387</NlmUniqueID>
+            <ISSNLinking>1676-5680</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">gmr8544</ArticleId>
+            <ArticleId IdType="doi">10.4238/gmr.15038544</ArticleId>
+            <ArticleId IdType="pubmed">27525951</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

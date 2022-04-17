@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27526013</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1210-7875</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>52</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>C?eskoslovenska? patologie</Title>
+                <ISOAbbreviation>Cesk Patol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[HPV-associated head and neck cancer: update and recommendations for practice].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>130-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Human papillomavirus (HPV)-associated oropharyngeal squamous cell carcinoma (HPV-OSCC) represents a specific clinical and pathological entity among head and neck cancers with more favorable prognosis than corresponding HPV-negative oropharyngeal squamous cell carcinoma (SCC). HPV-OSCC most commonly displays non-keratinzing SCC histology, although number of cases presented variable morphology. Detection of transcriptionally active HPV in oropharyngeal SCCs is of critical prognostic importance, which even supersedes the importance of their formal pathological grading. This article summarizes the current state of knowledge of HPV-positive SCC of oropharynx and of other anatomical subsites of the head and neck and discusses the role of HPV detection in the diagnostics of metastatic SCC lesions of unknown origin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>?vajdler</LastName>
+                    <ForeName>Marian</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laco</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ondi?</LastName>
+                    <ForeName>Ondrej</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ka?p?rkov?</LastName>
+                    <ForeName>Jana</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mezencev</LastName>
+                    <ForeName>Roman</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michal</LastName>
+                    <ForeName>Michal</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sk?lov?</LastName>
+                    <ForeName>Alena</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>cze</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>HPV-asociovan? karcin?my hlavy a krku: Aktualiz?cia poznatkov a odpor??ania pre prax.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Czech Republic</Country>
+            <MedlineTA>Cesk Patol</MedlineTA>
+            <NlmUniqueID>0050734</NlmUniqueID>
+            <ISSNLinking>1210-7875</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">squamous cell carcinoma - HPV - head and neck - oropharyngeal carcinoma - nasopharyngeal carcinoma - sinonasal carcinoma.</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">58842</ArticleId>
+            <ArticleId IdType="pubmed">27526013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

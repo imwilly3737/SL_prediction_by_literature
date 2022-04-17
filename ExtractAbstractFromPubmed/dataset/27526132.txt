@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27526132</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0065-2598</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>923</Volume>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in experimental medicine and biology</Title>
+                <ISOAbbreviation>Adv. Exp. Med. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparing the Effectiveness of Methods to Measure Oxygen in Tissues for Prognosis and Treatment of Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>113-120</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Given the clinical evidence that hypoxic tumors are more resistant to standard therapy and that adjusting therapies can improve the outcomes for the subpopulation with hypoxic tumors, in vivo methods to measure oxygen in tissue have important clinical potential. This paper provides the rationale for and methodological strategies to use comparative effectiveness research to evaluate oximetry for cancer care. Nine oximetry methods that have been used in vivo to measure oxygen in human tumors are evaluated on several clinically relevant criteria to illustrate the value of applying comparative effectiveness to oximetry.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Flood</LastName>
+                    <ForeName>Ann Barry</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EPR Center for the Study of Viable Systems, Department of Radiology, HB 7785, Geisel School of Medicine at Dartmouth, Hanover, NH, USA. ann.b.flood@dartmouth.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Satinsky</LastName>
+                    <ForeName>Victoria A</ForeName>
+                    <Initials>VA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EPR Center for the Study of Viable Systems, Department of Radiology, HB 7785, Geisel School of Medicine at Dartmouth, Hanover, NH, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Swartz</LastName>
+                    <ForeName>Harold M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EPR Center for the Study of Viable Systems, Department of Radiology, HB 7785, Geisel School of Medicine at Dartmouth, Hanover, NH, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Adv Exp Med Biol</MedlineTA>
+            <NlmUniqueID>0121103</NlmUniqueID>
+            <ISSNLinking>0065-2598</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clinical oximetry</Keyword>
+            <Keyword MajorTopicYN="N">Comparative effectiveness</Keyword>
+            <Keyword MajorTopicYN="N">Cost effectiveness</Keyword>
+            <Keyword MajorTopicYN="N">EPR (electron paramagnetic resonance)</Keyword>
+            <Keyword MajorTopicYN="N">Tumor hypoxia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-319-38810-6_15</ArticleId>
+            <ArticleId IdType="pubmed">27526132</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

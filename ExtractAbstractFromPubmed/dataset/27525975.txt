@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27525975</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1548-7105</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature methods</Title>
+                <ISOAbbreviation>Nat. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Single-cell multimodal profiling reveals cellular epigenetic heterogeneity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1038/nmeth.3961</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Sample heterogeneity often masks DNA methylation signatures in subpopulations of cells. Here, we present a method to genotype single cells while simultaneously interrogating gene expression and DNA methylation at multiple loci. We used this targeted multimodal approach, implemented on an automated, high-throughput microfluidic platform, to assess primary lung adenocarcinomas and human fibroblasts undergoing reprogramming by profiling epigenetic variation among cell types identified through genotyping and transcriptional analysis.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Cheow</LastName>
+                    <ForeName>Lih Feng</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Courtois</LastName>
+                    <ForeName>Elise T</ForeName>
+                    <Initials>ET</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genome Institute of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tan</LastName>
+                    <ForeName>Yuliana</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genome Institute of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Viswanathan</LastName>
+                    <ForeName>Ramya</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Xing</LastName>
+                    <ForeName>Qiaorui</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biological Sciences, Nanyang Technological University, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tan</LastName>
+                    <ForeName>Rui Zhen</ForeName>
+                    <Initials>RZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioinformatics Institute, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tan</LastName>
+                    <ForeName>Daniel S W</ForeName>
+                    <Initials>DS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genome Institute of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>National Cancer Centre Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Robson</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0191-3958</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Genome Institute of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, National University of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Jackson Laboratory for Genomic Medicine, Farmington, Connecticut, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Loh</LastName>
+                    <ForeName>Yuin-Han</ForeName>
+                    <Initials>YH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, National University of Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Quake</LastName>
+                    <ForeName>Stephen R</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Bioengineering and Applied Physics, Stanford University, Stanford, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Howard Hughes Medical Institute, Stanford, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Burkholder</LastName>
+                    <ForeName>William F</ForeName>
+                    <Initials>WF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Nat Methods</MedlineTA>
+            <NlmUniqueID>101215604</NlmUniqueID>
+            <ISSNLinking>1548-7091</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">nmeth.3961</ArticleId>
+            <ArticleId IdType="doi">10.1038/nmeth.3961</ArticleId>
+            <ArticleId IdType="pubmed">27525975</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

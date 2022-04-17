@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529696</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1935-2735</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS neglected tropical diseases</Title>
+                <ISOAbbreviation>PLoS Negl Trop Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Leukocyte Lysis and Cytokine Induction by the Human Sexually Transmitted Parasite Trichomonas vaginalis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0004913</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1371/journal.pntd.0004913</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Trichomonas vaginalis (Tv) is an extracellular protozoan parasite that causes the most common non-viral sexually transmitted infection: trichomoniasis. While acute symptoms in women may include vaginitis, infections are often asymptomatic, but can persist and are associated with medical complications including increased HIV susceptibility, infertility, pre-term labor, and higher incidence of cervical cancer. Heightened inflammation resulting from Tv infection could account for these complications. Effective cellular immune responses to Tv have not been characterized, and re-infection is common, suggesting a dysfunctional adaptive immune response. Using primary human leukocyte components, we have established an in vitro co-culture system to assess the interaction between Tv and the cells of the human immune system. We determined that in vitro, Tv is able to lyse T-cells and B-cells, showing a preference for B-cells. We also found that Tv lysis of lymphocytes was mediated by contact-dependent and soluble factors. Tv lysis of monocytes is far less efficient, and almost entirely contact-dependent. Interestingly, a common symbiont of Tv, Mycoplasma hominis, did not affect cytolytic activity of the parasite, but had a major impact on cytokine responses. M. hominis enabled more diverse inflammatory cytokine secretion in response to Tv and, of the cytokines tested, Tv strains cleared of M. hominis induced only IL-8 secretion from monocytes. The quality of the adaptive immune response to Tv is therefore likely influenced by Tv symbionts, commensals, and concomitant infections, and may be further complicated by direct parasite lysis of effector immune cells.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Mercer</LastName>
+                    <ForeName>Frances</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Immunology &amp; Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Diala</LastName>
+                    <ForeName>Fitz Gerald I</ForeName>
+                    <Initials>FG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Immunology &amp; Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Institute, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Chen</LastName>
+                    <ForeName>Yi-Pei</ForeName>
+                    <Initials>YP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Immunology &amp; Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Institute, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Molgora</LastName>
+                    <ForeName>Brenda M</ForeName>
+                    <Initials>BM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Immunology &amp; Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Institute, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Ng</LastName>
+                    <ForeName>Shek Hang</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Immunology &amp; Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Johnson</LastName>
+                    <ForeName>Patricia J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Immunology &amp; Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Institute, University of California, Los Angeles, Los Angeles, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>PLoS Negl Trop Dis</MedlineTA>
+            <NlmUniqueID>101291488</NlmUniqueID>
+            <ISSNLinking>1935-2727</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pntd.0004913</ArticleId>
+            <ArticleId IdType="pii">PNTD-D-16-00832</ArticleId>
+            <ArticleId IdType="pubmed">27529696</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

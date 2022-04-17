@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27528748</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8752</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical Society transactions</Title>
+                <ISOAbbreviation>Biochem. Soc. Trans.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How myosin organization of the actin cytoskeleton contributes to the cancer phenotype.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1026-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BST20160034</ELocationID>
+            <Abstract>
+                <AbstractText>The human genome contains 39 genes that encode myosin heavy chains, classified on the basis of their sequence similarity into 12 classes. Most cells express at least 12 different genes, from at least 8 different classes, which are typically composed of several class 1 genes, at least one class 2 gene and classes 5, 6, 9, 10, 18 and 19. Although the different myosin isoforms all have specific and non-overlapping roles in the cell, in combination they all contribute to the organization of the actin cytoskeleton, and the shape and phenotype of the cell. Over (or under) expression of these different myosin isoforms can have strong effects on actin organization, cell shape and contribute to the cancer phenotype as discussed in this review.</AbstractText>
+                <CopyrightInformation>? 2016 The Author(s). published by Portland Press Limited on behalf of the Biochemical Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Peckham</LastName>
+                    <ForeName>Michelle</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, Leeds LS2 9JT, U.K. m.peckham@leeds.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem Soc Trans</MedlineTA>
+            <NlmUniqueID>7506897</NlmUniqueID>
+            <ISSNLinking>0300-5127</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">actin</Keyword>
+            <Keyword MajorTopicYN="N">cytoskeleton</Keyword>
+            <Keyword MajorTopicYN="N">myosin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BST20160034</ArticleId>
+            <ArticleId IdType="doi">10.1042/BST20160034</ArticleId>
+            <ArticleId IdType="pubmed">27528748</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27527140</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1420-3049</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecules (Basel, Switzerland)</Title>
+                <ISOAbbreviation>Molecules</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Siegesbeckia orientalis Extract Inhibits TGF£]1-Induced Migration and Invasion of Endometrial Cancer Cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/molecules21081021</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">E1021</ELocationID>
+            <Abstract>
+                <AbstractText>Type II endometrial carcinoma typically exhibits aggressive metastasis and results in a poor prognosis. Siegesbeckia orientalis Linne is a traditional Chinese medicinal herb with several medicinal benefits, including the cytotoxicity against various cancers. This study investigates the inhibitory effects of S. orientalis ethanol extract (SOE) on the migration and invasion of endometrial cancer cells, which were stimulated by transforming growth factor £] (TGF£]). The inhibitory effects were evaluated by determining wound healing and performing the Boyden chamber assay. This study reveals that SOE can inhibit TGF£]1-induced cell wound healing, cell migration, and cell invasion in a dose-dependent manner in RL95-2 and HEC-1A endometrial cancer cells. SOE also reversed the TGF£]1-induced epithelial-mesenchymal transition, including the loss of the cell-cell junction and the lamellipodia-like structures. Western blot analysis revealed that SOE inhibited the phosphorylation of ERK1/2, JNK1/2, and Akt, as well as the expression of MMP-9, MMP-2, and u-PA in RL95-2 cells dose-dependently. The results of this investigation suggest that SOE is a potential anti-metastatic agent against human endometrial tumors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Chi-Chang</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics &amp; Gynecology, E-Da Hospital/I-Shou University, Kaohsiung 82445, Taiwan. ed101779@edah.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Biotechnology and Chemical Engineering, I-Shou University, Kaohsiung 84001, Taiwan. ed101779@edah.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ling</LastName>
+                    <ForeName>Xue-Hua</ForeName>
+                    <Initials>XH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics &amp; Gynecology, E-Da Hospital/I-Shou University, Kaohsiung 82445, Taiwan. ed107312@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Biotechnology and Chemical Engineering, I-Shou University, Kaohsiung 84001, Taiwan. ed107312@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Hsia-Fen</ForeName>
+                    <Initials>HF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, I-Shou University, Kaohsiung 82445, Taiwan. fen153848@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Jing-Mei</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics &amp; Gynecology, E-Da Hospital/I-Shou University, Kaohsiung 82445, Taiwan. jingmei0112@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Chao-Ping</ForeName>
+                    <Initials>CP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiology, Department of Internal Medicine, E-Da Hospital/I-Shou University, Kaohsiung 82445, Taiwan. ed100232@edah.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Jyh-Ferng</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Biotechnology and Chemical Engineering, I-Shou University, Kaohsiung 84001, Taiwan. jfyang@isu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Li-Wen</ForeName>
+                    <Initials>LW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, I-Shou University, Kaohsiung 82445, Taiwan. fanglw@isu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Houng</LastName>
+                    <ForeName>Jer-Yiing</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Biotechnology and Chemical Engineering, I-Shou University, Kaohsiung 84001, Taiwan. jyhoung@isu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, I-Shou University, Kaohsiung 82445, Taiwan. jyhoung@isu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Molecules</MedlineTA>
+            <NlmUniqueID>100964009</NlmUniqueID>
+            <ISSNLinking>1420-3049</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Siegesbeckia orientalis linne</Keyword>
+            <Keyword MajorTopicYN="N">anti-metastasis</Keyword>
+            <Keyword MajorTopicYN="N">endometrial cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">molecules21081021</ArticleId>
+            <ArticleId IdType="doi">10.3390/molecules21081021</ArticleId>
+            <ArticleId IdType="pubmed">27527140</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

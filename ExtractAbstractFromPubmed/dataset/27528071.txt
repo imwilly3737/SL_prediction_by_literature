@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27528071</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-9818</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>61</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BioTechniques</Title>
+                <ISOAbbreviation>BioTechniques</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cast Tube Assay: A 3-D in vitro assay for visualization and quantification of horizontal chemotaxis and cellular invasion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>66-72</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2144/000114442</ELocationID>
+            <Abstract>
+                <AbstractText>Directed cell motility, as controlled by soluble factors, is crucial for many biological processes, including development, cancer progression, and wound healing. The use of directed cell motility also shows promise for applications in regenerative medicine such as therapeutic angiogenesis. Unfortunately, current in vitro 3-D migration and invasion models limit our understanding and application of these processes. Here, we present a novel and cost-effective 3-D chemotaxis assay for assessing the invasive response of cells to a chemoattractant extracellular matrix (ECM). Our system takes advantage of a custom-casting chamber to set two gels in contact with each other along a defined front, one containing a suitable chemoattractant and the other the cells. Rotation of the chamber allows easy visualization of invasion across the interface. The effectiveness of the assay was demonstrated by studying the invasion of both human dermal fibroblasts (FBs) and smooth muscle cells (SMCs) into a polyethylene glycol (PEG) hydrogel containing basic fibroblast growth factor (bFGF). Incorporation of bFGF resulted in significantly increased and directional invasion for both cell groups.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Whitehead</LastName>
+                    <ForeName>Breffeni Constantine</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Research Unit, Chris Barnard Division of Cardiothoracic Surgery, University of Cape Town, Department of Health Sciences, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bezuidenhout</LastName>
+                    <ForeName>Deon</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Research Unit, Chris Barnard Division of Cardiothoracic Surgery, University of Cape Town, Department of Health Sciences, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chokoza</LastName>
+                    <ForeName>Cindy</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Research Unit, Chris Barnard Division of Cardiothoracic Surgery, University of Cape Town, Department of Health Sciences, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davies</LastName>
+                    <ForeName>Neil Hamer</ForeName>
+                    <Initials>NH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Research Unit, Chris Barnard Division of Cardiothoracic Surgery, University of Cape Town, Department of Health Sciences, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goetsch</LastName>
+                    <ForeName>Kyle Peter</ForeName>
+                    <Initials>KP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Research Unit, Chris Barnard Division of Cardiothoracic Surgery, University of Cape Town, Department of Health Sciences, Cape Town, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biotechniques</MedlineTA>
+            <NlmUniqueID>8306785</NlmUniqueID>
+            <ISSNLinking>0736-6205</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cellular invasion</Keyword>
+            <Keyword MajorTopicYN="N">chemotaxis</Keyword>
+            <Keyword MajorTopicYN="N">hydrogel</Keyword>
+            <Keyword MajorTopicYN="N">three-dimensional (3-D) in vitro assay</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">000114442</ArticleId>
+            <ArticleId IdType="doi">10.2144/000114442</ArticleId>
+            <ArticleId IdType="pubmed">27528071</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

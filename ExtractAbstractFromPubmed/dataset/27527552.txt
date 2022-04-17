@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27527552</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structurally novel steroidal spirooxindole by241 potently inhibits tumor growth mainly through ROS-mediated mechanisms.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>31607</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1038/srep31607</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Cancer cells always have increased ROS levels, thus making them more vulnerable to persistent endogenous oxidative stress. The biochemical difference between cancer and normal cells could be exploited to achieve selective cancer cell killing by exogenous ROS-producing agents. Herein we described a structurally novel steroidal spirooxindole by241 and its anticancer efficacy. By241 exhibited potent inhibition against human cancer cells and less toxic to normal cells. By241 concentration-dependently induced apoptosis of MGC-803 and EC9706 cells, accompanied with the mitochondrial dysfunction and increased ROS levels. NAC can completely restore the decreased cell viability of MGC-803 cells caused by by241, suggesting ROS-mediated mechanisms. The expression levels of proteins involved in the mitochondrion-related pathways were detected, showing increased expression of proapoptotic proteins and decreased expression of anti-apoptotic proteins, and activation of caspases-9/-3, but without activating caspase-8 expression. Pretreatment with Z-VAD-FMK partially rescued by241-induced apoptosis of MGC-803 cells. Additionally, by241 inhibited mTOR, activated p53 and its downstream proteins, cleaved MDM2 and PI3K/AKT as well as NF-£eB signaling pathway. In vivo experiments showed that by241 did not have significant acute oral toxicity and exerted good anticancer efficacy against MGC-803 bearing mice models. Therefore, by241 may serve as a lead for further development for cancer therapy.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Shi</LastName>
+                    <ForeName>Xiao-Jing</ForeName>
+                    <Initials>XJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Yu</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Wang</LastName>
+                    <ForeName>Jun-Wei</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Qi</LastName>
+                    <ForeName>Ping-Ping</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tang</LastName>
+                    <ForeName>Kai</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Huang</LastName>
+                    <ForeName>Xin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Liu</LastName>
+                    <ForeName>Hong-Min</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmaceutical Sciences &amp;Collaborative Innovation Center of New Drug Research and Safety Evaluation, Zhengzhou University, Zhengzhou 450001, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">srep31607</ArticleId>
+            <ArticleId IdType="doi">10.1038/srep31607</ArticleId>
+            <ArticleId IdType="pubmed">27527552</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

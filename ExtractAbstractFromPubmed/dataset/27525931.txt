@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27525931</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1676-5680</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetics and molecular research : GMR</Title>
+                <ISOAbbreviation>Genet. Mol. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeted gene therapy and in vivo bioluminescent imaging for monitoring postsurgical recurrence and metastasis in mouse models of liver cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4238/gmr.15037878</ELocationID>
+            <Abstract>
+                <AbstractText>We investigated the effects of combined targeted gene therapy on recurrence and metastasis after liver cancer resection in nude mice. Twenty BALB/C mice were randomly divided into control and treatment groups with 10 mice in each group and a male/female ratio of 1:1. Luciferase gene-labeled human primary hepatic carcinoma cell line MHCC97-H was then used to prepare a carcinoma model. An optical in vivo imaging technique (OIIT) was used 10 days later to detect the distribution of tumor cells, followed by partial liver resection and gene therapy. In the treatment group, 100 mL phosphate-buffered saline (PBS) containing 1 x 1012 rAAV/AFP/IL-24 gene viral vectors was injected into liver sections and peritumoral posterior peritoneal tissues; in the control group, the same amount of PBS containing 1 x 1012 empty viral vectors was injected at the same sites. OIIT was then used to detect the in vivo tumor metastasis 21 days later. Luciferase gene-labeled human primary hepatic carcinoma cell line MHCC97-H successfully infected 20 nude mice, and OIIT showed that the two groups exhibited metastasis after local tumor resection, but there were more tumor cells in the control group (P &lt; 0.05). rAAV/AFP/IL-24 gene therapy can inhibit recurrence after liver cancer resection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stake Key Laboratory of Plateau Ecology and Agriculture, Qinghai Academy of Animal Science and Veterinary Medicine, Qinghai University, Xining, Qinghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>C L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stake Key Laboratory of Plateau Ecology and Agriculture, Qinghai Academy of Animal Science and Veterinary Medicine, Qinghai University, Xining, Qinghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stake Key Laboratory of Plateau Ecology and Agriculture, Qinghai Academy of Animal Science and Veterinary Medicine, Qinghai University, Xining, Qinghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xin</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stake Key Laboratory of Plateau Ecology and Agriculture, Qinghai Academy of Animal Science and Veterinary Medicine, Qinghai University, Xining, Qinghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jing</LastName>
+                    <ForeName>Z K</ForeName>
+                    <Initials>ZK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stake Key Laboratory of Plateau Ecology and Agriculture, Qinghai Academy of Animal Science and Veterinary Medicine, Qinghai University, Xining, Qinghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>L X</ForeName>
+                    <Initials>LX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stake Key Laboratory of Plateau Ecology and Agriculture, Qinghai Academy of Animal Science and Veterinary Medicine, Qinghai University, Xining, Qinghai, China xqhdoc@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>Genet Mol Res</MedlineTA>
+            <NlmUniqueID>101169387</NlmUniqueID>
+            <ISSNLinking>1676-5680</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">gmr7878</ArticleId>
+            <ArticleId IdType="doi">10.4238/gmr.15037878</ArticleId>
+            <ArticleId IdType="pubmed">27525931</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

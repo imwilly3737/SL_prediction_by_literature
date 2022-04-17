@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528034</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>9</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Waking up dormant tumor suppressor genes with zinc fingers, TALEs and the CRISPR/dCas9 system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.18632/oncotarget.11142</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">The aberrant epigenetic silencing of tumor suppressor genes (TSGs) plays a major role during carcinogenesis and regaining these dormant functions by engineering of sequence-specific epigenome editing tools offers a unique opportunity for targeted therapies. However, effectively normalizing the expression and regaining tumor suppressive functions of silenced TSGs by artificial transcription factors (ATFs) still remains a major challenge. Herein we describe novel combinatorial strategies for the potent reactivation of two class II TSGs, MASPIN and REPRIMO, in cell lines with varying epigenetic states, using the CRISPR/dCas9 associated system linked to a panel of effector domains (VP64, p300, VPR and SAM complex), as well as with protein-based ATFs, Zinc Fingers and TALEs. We found that co-delivery of multiple effector domains using a combination of CRISPR/dCas9 and TALEs or SAM complex maximized activation in highly methylated promoters. In particular, CRISPR/dCas9 VPR with SAM upregulated MASPIN mRNA (22,145-fold change) in H157 lung cancer cells, with accompanying re-expression of MASPIN protein, which led to a concomitant inhibition of cell proliferation and induction of apoptotic cell death. Consistently, CRISPR/dCas9 VP64 with SAM upregulated REPRIMO (680-fold change), which led to phenotypic reprogramming in AGS gastric cancer cells. Altogether, our results outlined novel sequence-specific, combinatorial epigenome editing approaches to reactivate highly methylated TSGs as a promising therapy for cancer and other diseases.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Garcia-Bloj</LastName>
+                    <ForeName>Benjamin</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Anatomy, Physiology and Human Biology, The University of Western Australia, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, School of Medicine, Pontificia Universidad Catolica de Chile, Santiago, RM, 8330034, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Moses</LastName>
+                    <ForeName>Colette</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Anatomy, Physiology and Human Biology, The University of Western Australia, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sgro</LastName>
+                    <ForeName>Agustin</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Plani-Lam</LastName>
+                    <ForeName>Janice</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Arooj</LastName>
+                    <ForeName>Mahira</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biomedical Sciences, Curtin Health Innovation Research Institute, Curtin University, Perth WA 6845, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Duffy</LastName>
+                    <ForeName>Ciara</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Anatomy, Physiology and Human Biology, The University of Western Australia, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Thiruvengadam</LastName>
+                    <ForeName>Shreyas</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sorolla</LastName>
+                    <ForeName>Anabel</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Rashwan</LastName>
+                    <ForeName>Rabab</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Mancera</LastName>
+                    <ForeName>Ricardo L</ForeName>
+                    <Initials>RL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biomedical Sciences, Curtin Health Innovation Research Institute, Curtin University, Perth WA 6845, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Leisewitz</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, School of Medicine, Pontificia Universidad Catolica de Chile, Santiago, RM, 8330034, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Swift-Scanlan</LastName>
+                    <ForeName>Theresa</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing, Virginia Commonwealth University, Richmond, Virginia, 23298, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Corvalan</LastName>
+                    <ForeName>Alejandro H</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced Center for Chronic Diseases (ACCDiS), Pontificia Universidad Cat?lica de Chile, Santiago, RM, 8330034, Chile.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, School of Medicine, Pontificia Universidad Catolica de Chile, Santiago, RM, 8330034, Chile.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Blancafort</LastName>
+                    <ForeName>Pilar</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epigenetics group, The Harry Perkins Institute of Medical Research, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Anatomy, Physiology and Human Biology, The University of Western Australia, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CRISPR/dCas9</Keyword>
+            <Keyword MajorTopicYN="N">TALE</Keyword>
+            <Keyword MajorTopicYN="N">ZF</Keyword>
+            <Keyword MajorTopicYN="N">gene reactivation</Keyword>
+            <Keyword MajorTopicYN="N">tumor suppressor genes</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">11142</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.11142</ArticleId>
+            <ArticleId IdType="pubmed">27528034</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529230</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>G Protein-Coupled Receptors in Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">E1320</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Despite the fact that G protein-coupled receptors (GPCRs) are the largest signal-conveying receptor family and mediate many physiological processes, their role in tumor biology is underappreciated. Numerous lines of evidence now associate GPCRs and their downstream signaling targets in cancer growth and development. Indeed, GPCRs control many features of tumorigenesis, including immune cell-mediated functions, proliferation, invasion and survival at the secondary site. Technological advances have further substantiated GPCR modifications in human tumors. Among these are point mutations, gene overexpression, GPCR silencing by promoter methylation and the number of gene copies. At this point, it is imperative to elucidate specific signaling pathways of &quot;cancer driver&quot; GPCRs. Emerging data on GPCR biology point to functional selectivity and &quot;biased agonism&quot;; hence, there is a diminishing enthusiasm for the concept of &quot;one drug per GPCR target&quot; and increasing interest in the identification of several drug options. Therefore, determining the appropriate context-dependent conformation of a functional GPCR as well as the contribution of GPCR alterations to cancer development remain significant challenges for the discovery of dominant cancer genes and the development of targeted therapeutics.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Bar-Shavit</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sharett Institute of Oncology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel. Rachelbar@ekmd.huji.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Maoz</LastName>
+                    <ForeName>Myriam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sharett Institute of Oncology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel. Myriamm@hadassah.org.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kancharla</LastName>
+                    <ForeName>Arun</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sharett Institute of Oncology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel. kancharlarn@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Nag</LastName>
+                    <ForeName>Jeetendra Kumar</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sharett Institute of Oncology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel. jeetendr.nag@mail.huji.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Agranovich</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sharett Institute of Oncology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel. Danyaag@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Grisaru-Granovsky</LastName>
+                    <ForeName>Sorina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Shaare-Zedek Medical Center, Jerusalem 91031, Israel. sorina@szmc.org.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Uziely</LastName>
+                    <ForeName>Beatrice</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sharett Institute of Oncology, Hadassah-Hebrew University Medical Center, Jerusalem 91120, Israel. Beatrice@hadassah.org.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">REVIEW</PublicationType>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CXCR4</Keyword>
+            <Keyword MajorTopicYN="N">G protein-coupled receptors (GPCRs)</Keyword>
+            <Keyword MajorTopicYN="N">Hippo/YAP</Keyword>
+            <Keyword MajorTopicYN="N">LPA(1-6)</Keyword>
+            <Keyword MajorTopicYN="N">PH-domain</Keyword>
+            <Keyword MajorTopicYN="N">Wnt/£]-catenin</Keyword>
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">oncogenes</Keyword>
+            <Keyword MajorTopicYN="N">protease</Keyword>
+            <Keyword MajorTopicYN="N">protease-activated receptor</Keyword>
+            <Keyword MajorTopicYN="N">protease-activated receptors (PARs)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ijms17081320</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms17081320</ArticleId>
+            <ArticleId IdType="pubmed">27529230</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

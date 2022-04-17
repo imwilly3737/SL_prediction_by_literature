@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">27525226</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2228-5652</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BioImpacts : BI</Title>
+                <ISOAbbreviation>Bioimpacts</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Enhancing radiosensitivity of TE1, TE8, and TE 11 esophageal squamous carcinoma cell lines by Hdm2-siRNA targeted gene therapy in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>93-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.15171/bi.2016.13</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Human double minute2 (hdm2) level increases in most human malignancies. Therefore, inhibition of tumor growth and also induction of radiosensitivity may be provided by hdm2 inhibitors. The effects of hdm2-siRNA on hdm2 protein expression, cell apoptosis rate, and radiosensitivity of human esophageal squamous cell carcinoma (ESCC) were studied.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The hdm2 gene was silenced in TE1, TE8, and TE11 ESCC cell lines using 200nM siRNA by liposomal transfection method followed by irradiation with 0.5, 1, 2, 4, and 6 Gy £^-rays in vitro. The gene expression levels were evaluated by real time PCR and Western Blotting methods. MTT, TUNEL, and also colony forming assays were used to compare the radiosensitivity of the cell lines before and after the treatments.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Hdm2-siRNA reduced the hdm2 protein as compared to the vehicle control and scrambled groups, and also increased the radiation-induced apoptosis especially in TE11 cells. The related dose reduction factors (DRFs) for the silenced TE1, TE8, and TE11 cells calculated to be 1.20, 1.30, and 2.75, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Increasing radiosensitivity of tumor cells may be provided by silencing the oncogenes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pirayesh Islamian</LastName>
+                    <ForeName>Jalil</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohammadi</LastName>
+                    <ForeName>Mohsen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Radiation Science, School of Paramedicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baradaran</LastName>
+                    <ForeName>Behzad</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farajollahi</LastName>
+                    <ForeName>Alireza</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Physics, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aghamiri</LastName>
+                    <ForeName>Seyed Mahmoud Reza</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Medicine, Faculty of Nuclear Engineering, Shahid Beheshti University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asghari Jafarabadi</LastName>
+                    <ForeName>Mohammad</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics and Epidemiology, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karami</LastName>
+                    <ForeName>Hadi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, Faculty of Medicine, Arak University of Medical Sciences, Arak, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monfaredan</LastName>
+                    <ForeName>Amir</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shanehbandi</LastName>
+                    <ForeName>Dariush</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>06</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Bioimpacts</MedlineTA>
+            <NlmUniqueID>101558125</NlmUniqueID>
+            <ISSNLinking>2228-5652</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cell line</Keyword>
+            <Keyword MajorTopicYN="N">Esophagus cancer</Keyword>
+            <Keyword MajorTopicYN="N">Hdm2-siRNA</Keyword>
+            <Keyword MajorTopicYN="N">Oncogene</Keyword>
+            <Keyword MajorTopicYN="N">Radiosensitivity</Keyword>
+            <Keyword MajorTopicYN="N">Squamous cell carcinoma</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.15171/bi.2016.13</ArticleId>
+            <ArticleId IdType="pubmed">27525226</ArticleId>
+            <ArticleId IdType="pmc">PMC4981254</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

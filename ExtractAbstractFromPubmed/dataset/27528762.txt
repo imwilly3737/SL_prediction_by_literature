@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27528762</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8752</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical Society transactions</Title>
+                <ISOAbbreviation>Biochem. Soc. Trans.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting tumour vasculature by inhibiting activin receptor-like kinase (ALK)1 function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1142-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BST20160093</ELocationID>
+            <Abstract>
+                <AbstractText>Angiogenesis is a hallmark of cancer and is now a validated therapeutic target in the clinical setting. Despite the initial success, anti-angiogenic compounds impinging on the vascular endothelial growth factor (VEGF) pathway display limited survival benefits in patients and resistance often develops due to activation of alternative pathways. Thus, finding and validating new targets is highly warranted. Activin receptor-like kinase (ALK)1 is a transforming growth factor beta (TGF-£]) type?I receptor predominantly expressed in actively proliferating endothelial cells (ECs). ALK1 has been shown to play a pivotal role in regulating angiogenesis by binding to bone morphogenetic protein (BMP)9 and 10. Two main pharmacological inhibitors, an ALK1-Fc fusion protein (Dalantercept/ACE-041) and a fully human antibody against the extracellular domain of ALK1 (PF-03446962) are currently under clinical development. Herein, we briefly recapitulate the role of ALK1 in blood vessel formation and the current status of the preclinical and clinical studies on inhibition of ALK1 signalling as an anti-angiogenic strategy. Future directions in terms of new combination regimens will also be presented.</AbstractText>
+                <CopyrightInformation>? 2016 The Author(s). published by Portland Press Limited on behalf of the Biochemical Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Vinuesa</LastName>
+                    <ForeName>Amaya Garc?a</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Cell Biology and Cancer Genomics Centre Netherlands, Leiden University Medical Center, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bocci</LastName>
+                    <ForeName>Matteo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Lund University, Medicon Village, SE-22381 Lund, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pietras</LastName>
+                    <ForeName>Kristian</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Lund University, Medicon Village, SE-22381 Lund, Sweden kristian.pietras@med.lu.se p.ten_dijke@lumc.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ten Dijke</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Cell Biology and Cancer Genomics Centre Netherlands, Leiden University Medical Center, The Netherlands kristian.pietras@med.lu.se p.ten_dijke@lumc.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem Soc Trans</MedlineTA>
+            <NlmUniqueID>7506897</NlmUniqueID>
+            <ISSNLinking>0300-5127</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">activin receptor-like kinase 1 (ALK1)</Keyword>
+            <Keyword MajorTopicYN="N">angiogenesis</Keyword>
+            <Keyword MajorTopicYN="N">bone morphogenetic protein</Keyword>
+            <Keyword MajorTopicYN="N">tumour vasculature</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BST20160093</ArticleId>
+            <ArticleId IdType="doi">10.1042/BST20160093</ArticleId>
+            <ArticleId IdType="pubmed">27528762</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

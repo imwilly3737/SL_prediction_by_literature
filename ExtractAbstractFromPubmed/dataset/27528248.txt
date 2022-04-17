@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528248</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-0844</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell biochemistry and function</Title>
+                <ISOAbbreviation>Cell Biochem. Funct.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lactate Formation in Primary and Metastatic Colon Cancer Cells at Hypoxia and Normoxia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1002/cbf.3211</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">High glucose consumption and lactate synthesis in aerobic glycolysis are a hallmark of cancer cells. They can form lactate also in glutaminolysis, but it is not clear how oxygen availability affects this process. We studied lactate synthesis at various oxygen levels in human primary (SW480) and metastatic (SW620) colon cancer cells cultured with L-Ser and/or L-Asp. Glucose and lactate levels were determined colorimetrically, amino acids by HPLC, expression of AST1-mRNA and AST2-mRNA by RT-PCR. In both lines glucose consumption and lactate synthesis were higher at 10% than at 1% oxygen, and lactate/glucose ratio was increased above 2.0 by L-Asp. AST1-mRNA expression was independent on oxygen and cell line, but AST2-mRNA was lower at hypoxia in SW480. We conclude that, in both cell lines at 1% hypoxia, lactate is formed mainly from glucose but at 10% normoxia also from L-Asp. At 10% normoxia, lactate synthesis is more pronounced in primary than metastatic colon cancer cells.</AbstractText>
+                <CopyrightInformation>Copyright ? 2016 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Grabo?</LastName>
+                    <ForeName>Wojciech</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair and Department of Biochemistry, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Otto-?lusarczyk</LastName>
+                    <ForeName>Dagmara</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair and Department of Biochemistry, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Chrzanowska</LastName>
+                    <ForeName>Alicja</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair and Department of Biochemistry, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Mielczarek-Puta</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair and Department of Biochemistry, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Joniec-Maciejak</LastName>
+                    <ForeName>Ilona</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Pharmacology, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>S?abik</LastName>
+                    <ForeName>Krzysztof</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Pharmacology, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Bara?czyk-Ku?ma</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chair and Department of Biochemistry, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Cell Biochem Funct</MedlineTA>
+            <NlmUniqueID>8305874</NlmUniqueID>
+            <ISSNLinking>0263-6484</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">L-aspartate</Keyword>
+            <Keyword MajorTopicYN="N">L-serine</Keyword>
+            <Keyword MajorTopicYN="N">aspartate aminotransferases</Keyword>
+            <Keyword MajorTopicYN="N">colon cancer cell lines</Keyword>
+            <Keyword MajorTopicYN="N">expression</Keyword>
+            <Keyword MajorTopicYN="N">hypoxia</Keyword>
+            <Keyword MajorTopicYN="N">lactate synthesis</Keyword>
+            <Keyword MajorTopicYN="N">tissue normoxia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cbf.3211</ArticleId>
+            <ArticleId IdType="pubmed">27528248</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27526708</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1555-905X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical journal of the American Society of Nephrology : CJASN</Title>
+                <ISOAbbreviation>Clin J Am Soc Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Paraprotein-Related Kidney Disease: Evaluation and Treatment of Myeloma Cast Nephropathy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">CJN.01640216</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Nearly 50% of patients with multiple myeloma develop renal disease, most commonly from AKI caused by cast nephropathy. Development of AKI is associated with poor 1-year survival and reduces the therapeutic options available to patients. There is a great need for more effective therapies. Cast nephropathy is caused by the interaction and aggregation of filtered free light chains and Tamm-Horsfall protein causing intratubular obstruction and damage. The key to treating cast nephropathy is rapid lowering of free light chains, because this correlates with renal recovery. Newer chemotherapy agents rapidly lower free light chains and have been referred to as renoprotective. There is additional great interest in using extracorporeal therapies to remove serum free light chains. Small trials initially showed benefit of therapeutic plasma exchange to improve renal outcomes in cast nephropathy, but a large randomized trial of therapeutic plasma exchange failed to show benefit. A newer technique is extended high-cutoff hemodialysis. This modality uses a high molecular weight cutoff filter to remove free light chains. To date, trials of high-cutoff hemodialysis use in patients with cast nephropathy have been encouraging. However, there are no randomized trials showing the benefit of high-cutoff hemodialysis when used in addition to newer chemotherapeutic regimens. Until these studies are available, high-cutoff hemodialysis cannot be recommended as standard of care.</AbstractText>
+                <CopyrightInformation>Copyright ? 2016 by the American Society of Nephrology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Finkel</LastName>
+                    <ForeName>Kevin W</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Renal Diseases and Hypertension, University of Texas Health Science Center at Houston McGovern Medical School, Houston, Texas; Department of General Internal Medicine, Nephrology Section, University of Texas MD Anderson Cancer Center, Houston, Texas; kevin.w.finkel@uth.tmc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Cohen</LastName>
+                    <ForeName>Eric P</ForeName>
+                    <Initials>EP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Section, Baltimore Veterans Affairs Medical Center, University of Maryland School of Medicine, Baltimore, Maryland; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Shirali</LastName>
+                    <ForeName>Anushree</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Section of Nephrology, Yale University Medical School, New Haven, Connecticut.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Abudayyeh</LastName>
+                    <ForeName>Ala</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Internal Medicine, Nephrology Section, University of Texas MD Anderson Cancer Center, Houston, Texas;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <CollectiveName>American Society of Nephrology Onco-Nephrology Forum</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Clin J Am Soc Nephrol</MedlineTA>
+            <NlmUniqueID>101271570</NlmUniqueID>
+            <ISSNLinking>1555-9041</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HCO dialysis</Keyword>
+            <Keyword MajorTopicYN="N">Humans</Keyword>
+            <Keyword MajorTopicYN="N">Immunoglobulin Light Chains</Keyword>
+            <Keyword MajorTopicYN="N">Molecular Weight</Keyword>
+            <Keyword MajorTopicYN="N">Myeloma Proteins</Keyword>
+            <Keyword MajorTopicYN="N">Plasma Exchange</Keyword>
+            <Keyword MajorTopicYN="N">Randomized Controlled Trials as Topic</Keyword>
+            <Keyword MajorTopicYN="N">Standard of Care</Keyword>
+            <Keyword MajorTopicYN="N">Uromodulin</Keyword>
+            <Keyword MajorTopicYN="N">acute renal failure</Keyword>
+            <Keyword MajorTopicYN="N">cast nephropathy</Keyword>
+            <Keyword MajorTopicYN="N">free light chains</Keyword>
+            <Keyword MajorTopicYN="N">multiple myeloma</Keyword>
+            <Keyword MajorTopicYN="N">multiple myeloma M-proteins</Keyword>
+            <Keyword MajorTopicYN="N">renal dialysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">CJN.01640216</ArticleId>
+            <ArticleId IdType="doi">10.2215/CJN.01640216</ArticleId>
+            <ArticleId IdType="pubmed">27526708</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27527148</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Docosahexaenoic Acid Induces Oxidative DNA Damage and Apoptosis, and Enhances the Chemosensitivity of Cancer Cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms17081257</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">E1257</ELocationID>
+            <Abstract>
+                <AbstractText>The human diet contains low amounts of £s-3 polyunsaturated fatty acids (PUFAs) and high amounts of £s-6 PUFAs, which has been reported to contribute to the incidence of cancer. Epidemiological studies have shown that a high consumption of fish oil or £s-3 PUFAs reduced the risk of colon, pancreatic, and endometrial cancers. The £s-3 PUFA, docosahexaenoic acid (DHA), shows anticancer activity by inducing apoptosis of some human cancer cells without toxicity against normal cells. DHA induces oxidative stress and oxidative DNA adduct formation by depleting intracellular glutathione (GSH) and decreasing the mitochondrial function of cancer cells. Oxidative DNA damage and DNA strand breaks activate DNA damage responses to repair the damaged DNA. However, excessive DNA damage beyond the capacity of the DNA repair processes may initiate apoptotic signaling pathways and cell cycle arrest in cancer cells. DHA shows a variable inhibitory effect on cancer cell growth depending on the cells' molecular properties and degree of malignancy. It has been shown to affect DNA repair processes including DNA-dependent protein kinases and mismatch repair in cancer cells. Moreover, DHA enhanced the efficacy of anticancer drugs by increasing drug uptake and suppressing survival pathways in cancer cells. In this review, DHA-induced oxidative DNA damage, apoptotic signaling, and enhancement of chemosensitivity in cancer cells will be discussed based on recent studies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Eun Ah</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food and Nutrition, Brain Korea 21 PLUS Project, College of Human Ecology, Yonsei University, Seoul 03722, Korea. 534ssong@yonsei.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hyeyoung</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Food and Nutrition, Brain Korea 21 PLUS Project, College of Human Ecology, Yonsei University, Seoul 03722, Korea. kim626@yonsei.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">cancer cells</Keyword>
+            <Keyword MajorTopicYN="N">chemosensitivity</Keyword>
+            <Keyword MajorTopicYN="N">docosahexaenoic acid</Keyword>
+            <Keyword MajorTopicYN="N">oxidative DNA damage</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ijms17081257</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms17081257</ArticleId>
+            <ArticleId IdType="pubmed">27527148</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

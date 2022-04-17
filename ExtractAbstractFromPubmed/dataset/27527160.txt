@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">27527160</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>1-(2-Hydroxy-5-methylphenyl)-3-phenyl-1,3-propanedione Induces G1 Cell Cycle Arrest and Autophagy in HeLa Cervical Cancer Cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms17081274</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">E1274</ELocationID>
+            <Abstract>
+                <AbstractText>The natural agent, 1-(2-hydroxy-5-methylphenyl)-3-phenyl-1,3-propanedione (HMDB), has been reported to have growth inhibitory effects on several human cancer cells. However, the role of HMDB in cervical cancer remains unclear. Herein, we found that HMDB dose- and time-dependently inhibited growth of HeLa cervical cancer cells, accompanied with G1 cell cycle arrest. HMDB decreased protein expression of cyclins D1/D3/E and cyclin-dependent kinases (CDKs) 2/4/6 and reciprocally increased mRNA and protein levels of CDK inhibitors (p15, p16, p21, and p27), thereby leading to the accumulation of hypophosphorylated retinoblastoma (Rb) protein. HMDB also triggered the accumulation of acidic vesicles and formation of microtubule-associated protein-light chain 3 (LC3), followed by increased expression of LC3 and Beclin-1 and decreased expression of p62, suggesting that HMDB triggered autophagy in HeLa cells. Meanwhile, suppression of the expression of survivin and Bcl-2 implied that HMDB-induced autophagy is tightly linked to apoptosis. Exploring the action mechanism, HMDB induced autophagy via the modulation of AMP-activated protein kinase (AMPK) and mTOR signaling pathway rather than the class III phosphatidylinositol 3-kinase pathway. These results suggest that HMDB inhibits HeLa cell growth by eliciting a G1 arrest through modulation of G1 cell cycle regulators and by concomitantly inducing autophagy through the mediation of AMPK-mTOR and Akt-mTOR pathways, and may be a promising antitumor agent against cervical cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tsai</LastName>
+                    <ForeName>Jie-Heng</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biochemistry, Microbiology and Immunology, Chung Shan Medical University, Taichung 402, Taiwan. a19851102@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Li-Sung</ForeName>
+                    <Initials>LS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biochemistry, Microbiology and Immunology, Chung Shan Medical University, Taichung 402, Taiwan. lsh316@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Laboratory, Chung Shan Medical University Hospital, Taichung 402, Taiwan. lsh316@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Hsiu-Chen</ForeName>
+                    <Initials>HC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Science, National Hsinchu University of Education, Hsinchu 300, Taiwan. jane@mail.nhcue.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Chih-Li</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medicine, Chung Shan Medical University, Taichung 402, Taiwan. dll@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Research, Chung Shan Medical University Hospital, Taichung 402, Taiwan. dll@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Min-Hsiung</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Food Science and Technology, National Taiwan University, Taipei 106, Taiwan. mhpan@ntu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Hui-Mei</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Research, Chung Shan Medical University Hospital, Taichung 402, Taiwan. hhm@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, Chung Shan Medical University, Taichung 402, Taiwan. hhm@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Wei-Jen</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Research, Chung Shan Medical University Hospital, Taichung 402, Taiwan. cwj519@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, Chung Shan Medical University, Taichung 402, Taiwan. cwj519@csmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">1-(2-hydroxy-5-methylphenyl)-3-phenyl-1,3-propanedione</Keyword>
+            <Keyword MajorTopicYN="N">Beclin-1</Keyword>
+            <Keyword MajorTopicYN="N">G1 arrest</Keyword>
+            <Keyword MajorTopicYN="N">autophagy</Keyword>
+            <Keyword MajorTopicYN="N">light chain 3 (LC3)</Keyword>
+            <Keyword MajorTopicYN="N">p62</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ijms17081274</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms17081274</ArticleId>
+            <ArticleId IdType="pubmed">27527160</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

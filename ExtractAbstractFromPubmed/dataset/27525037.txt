@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">27525037</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1750-9378</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infectious agents and cancer</Title>
+                <ISOAbbreviation>Infect. Agents Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Radio-frequency ablation-based studies on VX2rabbit models for HCC treatment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13027-016-0082-9</ELocationID>
+            <Abstract>
+                <AbstractText>Hepatocellular carcinoma (HCC) is the fifth most frequent cancer worldwide with high morbidity, mortality and increasing incidence. It is of note that the main curative therapies for HCC are hepatic resection and transplantation although the majority of patients at the time of presentation are not eligible for resection or orthotopic liver transplantation (OLT) due to the underlying cirrhosis. Currently, a variety of loco-regional therapies, including radiofrequency ablation (RFA), percutaneous ethanol injection (PEI), microwave coagulation therapy (MCT), transarterial chemoembolization (TACE) and others, have been developed as alternative treatment options for HCC. Among these techniques, RFA is currently the most widely used treatment, due to its several advantages, such as safety and efficacy. To date, the effectiveness of RFA for HCC is reduced by the presence of residual tumor as a consequence of insufficient treatment. In order to ameliorate the effects of RFA on HCC, several in vivo studies, have been performed on its application as single or in combination treatment with drugs or others loco-regional therapies, by using rabbit VX2 liver model. This represents an ideal model of liver cancers and is widely used for imaging and other experimental studies due to the rapid growth of these tumors and their similarity to human hepatocellular carcinoma. In order to elucidate the therapeutic potential of RFA with adjuvant treatments for HCC, we reviewed the latest findings on the RFA-based studies in rabbit VX2 hepatocarcinoma models.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bimonte</LastName>
+                    <ForeName>Sabrina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Abdominal Surgical Oncology, Hepatobiliary Unit, Istituto Nazionale per lo studio e la cura dei Tumori &quot;Fondazione G. Pascale&quot;, - IRCCS, Via Mariano Semmola, 80131 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leongito</LastName>
+                    <ForeName>Maddalena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Abdominal Surgical Oncology, Hepatobiliary Unit, Istituto Nazionale per lo studio e la cura dei Tumori &quot;Fondazione G. Pascale&quot;, - IRCCS, Via Mariano Semmola, 80131 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Piccirillo</LastName>
+                    <ForeName>Mauro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Abdominal Surgical Oncology, Hepatobiliary Unit, Istituto Nazionale per lo studio e la cura dei Tumori &quot;Fondazione G. Pascale&quot;, - IRCCS, Via Mariano Semmola, 80131 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Angelis</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>I.O.S. &amp; Coleman Srl, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pivonello</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Medicina Clinica e Chirurgia, Sezione di Endocrinologia, Universit? di Napoli Federico II, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Granata</LastName>
+                    <ForeName>Vincenza</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Abdominal Surgical Oncology, Hepatobiliary Unit, Istituto Nazionale per lo studio e la cura dei Tumori &quot;Fondazione G. Pascale&quot;, - IRCCS, Via Mariano Semmola, 80131 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Izzo</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Abdominal Surgical Oncology, Hepatobiliary Unit, Istituto Nazionale per lo studio e la cura dei Tumori &quot;Fondazione G. Pascale&quot;, - IRCCS, Via Mariano Semmola, 80131 Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Infect Agent Cancer</MedlineTA>
+            <NlmUniqueID>101276559</NlmUniqueID>
+            <ISSNLinking>1750-9378</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Hepatocellular carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">RFA</Keyword>
+            <Keyword MajorTopicYN="N">Radiofrequency ablation</Keyword>
+            <Keyword MajorTopicYN="N">Residual tumor</Keyword>
+            <Keyword MajorTopicYN="N">Vx2 tumors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13027-016-0082-9</ArticleId>
+            <ArticleId IdType="pii">82</ArticleId>
+            <ArticleId IdType="pubmed">27525037</ArticleId>
+            <ArticleId IdType="pmc">PMC4981963</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

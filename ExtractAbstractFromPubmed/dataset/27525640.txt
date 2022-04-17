@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27525640</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1708-0428</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Obesity surgery</Title>
+                <ISOAbbreviation>Obes Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decreased Levels of Circulating Cancer-Associated Protein Biomarkers Following Bariatric Surgery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Epidemiological studies have identified obesity as a major risk factor for cancer in humans, and trials have demonstrated a significant reduction in the incidence of cancer after bariatric surgery. The rapidity of weight loss after bariatric surgery provides an opportunity to identify the molecular changes associated with effective obesity treatment. Indirectly, this may provide some insights into the mechanisms that drive the association between obesity and cancer. We sought to measure circulating cancer-associated proteins before and after laparoscopic sleeve gastrectomy (LSG).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We prospectively enrolled 15 patients undergoing LSG. Thirty-four plasma protein biomarkers thought to be associated with cancer processes were analyzed at baseline and following successful weight loss at 12?weeks using a multiplex bead-based assay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean excess body weight loss was 44?% at 12-week follow-up. After LSG, a significant reduction in circulating plasma levels was observed for half (17/34) of the proteins assessed: VEGF-A, VEGF-C, VEGF-D, endoglin, PLGF, sFASL, IGFBP-1, IL-18, prolactin, EGF, TGF£\, sCD40L, IL-18, TNF£\, IL-6, HB-EGF, and PAI-1. Nonsignificant decreases were found for the remaining proteins.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Circulating cancer-related biomarker levels were reduced by surgical weight loss, and this benefit was achieved as early as 3?months after operation. The observed reduction in cancer biomarkers may be related to the reported decrease in cancer incidence following bariatric surgery.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Farey</LastName>
+                    <ForeName>John Edward</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Notre Dame Australia, School of Medicine, Sydney, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gastro-Oesophageal Cancer Research Program, St Vincent's Centre for Applied Medical Research, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Fisher</LastName>
+                    <ForeName>Oliver M</ForeName>
+                    <Initials>OM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Notre Dame Australia, School of Medicine, Sydney, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gastro-Oesophageal Cancer Research Program, St Vincent's Centre for Applied Medical Research, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Levert-Mignon</LastName>
+                    <ForeName>Angelique J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Notre Dame Australia, School of Medicine, Sydney, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gastro-Oesophageal Cancer Research Program, St Vincent's Centre for Applied Medical Research, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Forner</LastName>
+                    <ForeName>Patrice M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Notre Dame Australia, School of Medicine, Sydney, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gastro-Oesophageal Cancer Research Program, St Vincent's Centre for Applied Medical Research, Darlinghurst, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Lord</LastName>
+                    <ForeName>Reginald V</ForeName>
+                    <Initials>RV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Notre Dame Australia, School of Medicine, Sydney, Darlinghurst, NSW, Australia. rvlord@stvincents.com.au.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Gastro-Oesophageal Cancer Research Program, St Vincent's Centre for Applied Medical Research, Darlinghurst, NSW, Australia. rvlord@stvincents.com.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Obes Surg</MedlineTA>
+            <NlmUniqueID>9106714</NlmUniqueID>
+            <ISSNLinking>0960-8923</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bariatric surgery</Keyword>
+            <Keyword MajorTopicYN="N">Biological markers</Keyword>
+            <Keyword MajorTopicYN="N">Gastrectomy</Keyword>
+            <Keyword MajorTopicYN="N">Laparoscopy</Keyword>
+            <Keyword MajorTopicYN="N">Neoplasms</Keyword>
+            <Keyword MajorTopicYN="N">Neoplasms/prevention and control</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11695-016-2321-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11695-016-2321-y</ArticleId>
+            <ArticleId IdType="pubmed">27525640</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

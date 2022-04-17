@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528432</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-3405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>4</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic &amp; medicinal chemistry letters</Title>
+                <ISOAbbreviation>Bioorg. Med. Chem. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis of novel hydrazone and azole functionalized pyrazolo[3,4-b]pyridine derivatives as promising anticancer agents.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">S0960-894X(16)30816-2</ELocationID>
+            <ELocationID EIdType="doi">10.1016/j.bmcl.2016.08.006</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">A series of novel pyrazolo[3,4-b]pyridine based target compounds were synthesized starting from the key intermediate ethyl 2-(3-amino-6-(trifluoromethyl)-1H-pyrazolo[3,4-b]pyridin-1-yl)acetate 5 on reaction with hydrazine hydrate followed by reaction with different aldehydes, acid chlorides and isothiocyanates to form hydrazones 7, oxadiazoles 8, 1,2,4 triazoles 10 and thiadiazoles 11 respectively in high yield. All the final compounds were screened for anticancer activity against four human cancer cell lines. Among them, 1,2,4 triazole derivatives showed promising activity and compound 10d is identified as a lead molecule.</AbstractText>
+                <CopyrightInformation>Copyright ? 2016 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Nagender</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fluoroorganic Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Naresh Kumar</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fluoroorganic Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Malla Reddy</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fluoroorganic Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Krishna Swaroop</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fluoroorganic Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Poornachandra</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemical Biology Laboratory, Medicinal Chemistry and Pharmacology Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Ganesh Kumar</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemical Biology Laboratory, Medicinal Chemistry and Pharmacology Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Narsaiah</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fluoroorganic Division, Indian Institute of Chemical Technology, Tarnaka, Hyderabad 500007, India. Electronic address: narsaiah@iict.res.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Bioorg Med Chem Lett</MedlineTA>
+            <NlmUniqueID>9107377</NlmUniqueID>
+            <ISSNLinking>0960-894X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">1,2,4-Triazole</Keyword>
+            <Keyword MajorTopicYN="N">Anticancer activity</Keyword>
+            <Keyword MajorTopicYN="N">Oxadiazole</Keyword>
+            <Keyword MajorTopicYN="N">Pyrazolo[3,4-b]pyridine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0960-894X(16)30816-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bmcl.2016.08.006</ArticleId>
+            <ArticleId IdType="pubmed">27528432</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

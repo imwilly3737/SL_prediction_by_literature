@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528681</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mouse MORC3 is a GHKL ATPase that localizes to H3K4me3 marked chromatin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">201609709</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Microrchidia (MORC) proteins are GHKL (gyrase, heat-shock protein 90, histidine kinase, MutL) ATPases that function in gene regulation in multiple organisms. Animal MORCs also contain CW-type zinc finger domains, which are known to bind to modified histones. We solved the crystal structure of the murine MORC3 ATPase-CW domain bound to the nucleotide analog AMPPNP (phosphoaminophosphonic acid-adenylate ester) and in complex with a trimethylated histone H3 lysine 4 (H3K4) peptide (H3K4me3). We observed that the MORC3 N-terminal ATPase domain forms a dimer when bound to AMPPNP. We used native mass spectrometry to show that dimerization is ATP-dependent, and that dimer formation is enhanced in the presence of nonhydrolyzable ATP analogs. The CW domain uses an aromatic cage to bind trimethylated Lys4 and forms extensive hydrogen bonds with the H3 tail. We found that MORC3 localizes to promoters marked by H3K4me3 throughout the genome, consistent with its binding to H3K4me3 in vitro. Our work sheds light on aspects of the molecular dynamics and function of MORC3.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Li</LastName>
+                    <ForeName>Sisi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Structural Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Yen</LastName>
+                    <ForeName>Linda</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Pastor</LastName>
+                    <ForeName>William A</ForeName>
+                    <Initials>WA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Johnston</LastName>
+                    <ForeName>Jonathan B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Du</LastName>
+                    <ForeName>Jiamu</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Shanghai Center for Plant Stress Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 201602, China;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Shew</LastName>
+                    <ForeName>Colin J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Liu</LastName>
+                    <ForeName>Wanlu</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Institute, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Ho</LastName>
+                    <ForeName>Jamie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Stender</LastName>
+                    <ForeName>Bryan</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Clark</LastName>
+                    <ForeName>Amander T</ForeName>
+                    <Initials>AT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095; Molecular Biology Institute, University of California, Los Angeles, CA 90095; Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, University of California, Los Angeles, CA 90095; Jonsson Comprehensive Cancer Center, University of California, Los Angeles, CA 90095;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Burlingame</LastName>
+                    <ForeName>Alma L</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Daxinger</LastName>
+                    <ForeName>Lucia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human and Clinical Genetics, Leiden University Medical Center, 2300 RC Leiden, The Netherlands; l.clemens-daxinger@lumc.nl pateld@mskcc.org jacobsen@ucla.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Patel</LastName>
+                    <ForeName>Dinshaw J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Structural Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065; l.clemens-daxinger@lumc.nl pateld@mskcc.org jacobsen@ucla.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Jacobsen</LastName>
+                    <ForeName>Steven E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90095; Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, University of California, Los Angeles, CA 90095; Howard Hughes Medical Institute, University of California, Los Angeles, CA 90095 l.clemens-daxinger@lumc.nl pateld@mskcc.org jacobsen@ucla.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <DataBankList>
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>5IX1</AccessionNumber>
+                        <AccessionNumber>5IX2</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ATPase</Keyword>
+            <Keyword MajorTopicYN="N">X-ray crystallography</Keyword>
+            <Keyword MajorTopicYN="N">histone mark reader</Keyword>
+            <Keyword MajorTopicYN="N">native mass spectrometry</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1609709113</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1609709113</ArticleId>
+            <ArticleId IdType="pubmed">27528681</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

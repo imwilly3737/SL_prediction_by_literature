@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529866</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cinobufagin Modulates Human Innate Immune Responses and Triggers Antibacterial Activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0160734</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1371/journal.pone.0160734</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">The traditional Chinese medicine Chan-Su is widely used for treatment of cancer and cardiovascular diseases, but also as a remedy for infections such as furunculosis, tonsillitis and acute pharyngitis. The clinical use of Chan-Su suggests that it has anti-infective effects, however, the mechanism of action is incompletely understood. In particular, the effect on the human immune system is poorly defined. Here, we describe previously unrecognized immunomodulatory activities of cinobufagin (CBG), a major bioactive component of Chan-Su. Using human monocyte-derived dendritic cells (DCs), we show that LPS-induced maturation and production of a number of cytokines was potently inhibited by CBG, which also had a pro-apoptotic effect, associated with activation of caspase-3. Interestingly, CBG triggered caspase-1 activation and significantly enhanced IL-1£] production in LPS-stimulated cells. Finally, we demonstrate that CBG upregulates gene expression of the antimicrobial peptides (AMPs) hBD-2 and hBD-3 in DCs, and induces secretion of HNP1-3 and hCAP-18/LL-37 from neutrophils, potentiating neutrophil antibacterial activity. Taken together, our data indicate that CBG modulates the inflammatory phenotype of DCs in response to LPS, and triggers an antibacterial innate immune response, thus proposing possible mechanisms for the clinical effects of Chan-Su in anti-infective therapy.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Xie</LastName>
+                    <ForeName>Shanshan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Veterinary Medicine, College of Veterinary Medicine, Jilin University, Changchun, Jilin, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Spelmink</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Codemo</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Subramanian</LastName>
+                    <ForeName>Karthik</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>P?tsep</LastName>
+                    <ForeName>Katrin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Henriques-Normark</LastName>
+                    <ForeName>Birgitta</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Microbiology, Karolinska University Hospital, SE-171 76 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Olliver</LastName>
+                    <ForeName>Marie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, SE-171 77 Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0160734</ArticleId>
+            <ArticleId IdType="pii">PONE-D-16-09427</ArticleId>
+            <ArticleId IdType="pubmed">27529866</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

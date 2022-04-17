@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528392</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-904X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmaceutical research</Title>
+                <ISOAbbreviation>Pharm. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Anti-cancer Antibody Trastuzumab-Melanotransferrin Conjugate (BT2111) for the Treatment of Metastatic HER2+ Breast Cancer Tumors in the Brain: an In-Vivo Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The ability of human melanotransferrin (hMTf) to carry a therapeutic concentration of trastuzumab (BTA) in the brain after conjugation (in the form of trastuzumab-melanotransferrin conjugate, BT2111 conjugate) was investigated by measuring the reduction of the number and size of metastatic human HER(2+) breast cancer tumors in a preclinical model of brain metastases of breast cancer.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Human metastatic brain seeking breast cancer cells were injected in NuNu mice (n?=?6-12 per group) which then developed experimental brain metastases. Drug uptake was analyzed in relation to metastasis size and blood-tumor barrier permeability. To investigate in-vivo activity against brain metastases, equimolar doses of the conjugate, and relevant controls (hMTf and BTA) in separate groups were administered biweekly after intracardiac injection of the metastatic cancer cells.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The trastuzumab-melanotransferrin conjugate (BT2111) reduced the number of preclinical human HER(2+) breast cancer metastases in the brain by 68% compared to control groups. Tumors which remained after treatment were 46% smaller than the control groups. In contrast, BTA alone had no effect on reducing number of metastases, and was associated with only a minimal reduction in metastasis size.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results suggest the novel trastuzumab-melanotransferrin conjugate (BT2111) may have utility in treating brain metastasis and validate hMTf as a potential vector for antibody transport across the Blood Brain Barrier (BBB).</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Nounou</LastName>
+                    <ForeName>Mohamed Ismail</ForeName>
+                    <Initials>MI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, Texas Tech University Health Sciences Center, Amarillo, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutics, School of Pharmacy, Alexandria University, Alexandria, 21521, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Sciences, Appalachian College of Pharmacy, Oakwood, Virginia, 24631, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Adkins</LastName>
+                    <ForeName>Chris E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, Texas Tech University Health Sciences Center, Amarillo, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, West Virginia University Health Sciences Center, Morgantown, West Virginia, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Rubinchik</LastName>
+                    <ForeName>Evelina</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>biOasis Technologies Inc., Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Terrell-Hall</LastName>
+                    <ForeName>Tori B</ForeName>
+                    <Initials>TB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, Texas Tech University Health Sciences Center, Amarillo, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, West Virginia University Health Sciences Center, Morgantown, West Virginia, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Afroz</LastName>
+                    <ForeName>Mohamed</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, Texas Tech University Health Sciences Center, Amarillo, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, West Virginia University Health Sciences Center, Morgantown, West Virginia, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Vitalis</LastName>
+                    <ForeName>Tim</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>biOasis Technologies Inc., Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Gabathuler</LastName>
+                    <ForeName>Reinhard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>biOasis Technologies Inc., Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tian</LastName>
+                    <ForeName>Mei Mei</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>biOasis Technologies Inc., Vancouver, British Columbia, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Lockman</LastName>
+                    <ForeName>Paul R</ForeName>
+                    <Initials>PR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, West Virginia University Health Sciences Center, Morgantown, West Virginia, USA. prlockman@hsc.wvu.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Pharm Res</MedlineTA>
+            <NlmUniqueID>8406521</NlmUniqueID>
+            <ISSNLinking>0724-8741</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">antibody trastuzumab-melanotransferrin conjugate (BT2111)</Keyword>
+            <Keyword MajorTopicYN="N">blood brain barrier (BBB)</Keyword>
+            <Keyword MajorTopicYN="N">brain metastases</Keyword>
+            <Keyword MajorTopicYN="N">human melanotransferrin (hMTf)</Keyword>
+            <Keyword MajorTopicYN="N">metastatic HER2+ breast cancer tumors</Keyword>
+            <Keyword MajorTopicYN="N">trastuzumab (BTA)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11095-016-2015-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11095-016-2015-0</ArticleId>
+            <ArticleId IdType="pubmed">27528392</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

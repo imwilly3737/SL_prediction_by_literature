@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">27527216</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6694</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancers</Title>
+                <ISOAbbreviation>Cancers (Basel)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HPV Associated Head and Neck Cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/cancers8080075</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">E75</ELocationID>
+            <Abstract>
+                <AbstractText>Head and neck cancers (HNCs) are a highly heterogeneous group of tumours that are associated with diverse clinical outcomes. Recent evidence has demonstrated that human papillomavirus (HPV) is involved in up to 25% of HNCs; particularly in the oropharyngeal carcinoma (OPC) subtype where it can account for up to 60% of such cases. HPVs are double-stranded DNA viruses that infect epithelial cells; numerous HPV subtypes, including 16, 18, 31, 33, and 35, drive epithelial cell transformation and tumourigenesis. HPV positive (HPV+) HNC represents a distinct molecular and clinical entity from HPV negative (HPV-) disease; the biological basis for which remains to be fully elucidated. HPV positivity is strongly correlated with a significantly superior outcome; indicating that such tumours should have a distinct management approach. This review focuses on the recent scientific and clinical investigation of HPV+ HNC. In particular, we discuss the importance of molecular and clinical evidence for defining the role of HPV in HNC, and the clinical impact of HPV status as a biomarker for HNC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Spence</LastName>
+                    <ForeName>Tara</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2M9, Canada. tara.spence@rmp.uhn.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bruce</LastName>
+                    <ForeName>Jeff</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2M9, Canada. jeffpbruce@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yip</LastName>
+                    <ForeName>Kenneth W</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2M9, Canada. ken.yip@utoronto.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fei-Fei</ForeName>
+                    <Initials>FF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Princess Margaret Cancer Centre, University Health Network, Toronto, ON M5G 2M9, Canada. fei-fei.liu@rmp.uhn.on.ca.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Biophysics, University of Toronto, Toronto, ON M5G 1L7, Canada. fei-fei.liu@rmp.uhn.on.ca.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Toronto, Toronto, ON M5T 1P5, Canada. fei-fei.liu@rmp.uhn.on.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Cancers (Basel)</MedlineTA>
+            <NlmUniqueID>101526829</NlmUniqueID>
+            <ISSNLinking>2072-6694</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">(HPV+)</Keyword>
+            <Keyword MajorTopicYN="N">HPV negative (HPV?)</Keyword>
+            <Keyword MajorTopicYN="N">biomarker</Keyword>
+            <Keyword MajorTopicYN="N">head and neck cancer</Keyword>
+            <Keyword MajorTopicYN="N">head and neck squamous cell carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">human papillomavirus</Keyword>
+            <Keyword MajorTopicYN="N">microRNA</Keyword>
+            <Keyword MajorTopicYN="N">oropharyngeal carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">prognosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">cancers8080075</ArticleId>
+            <ArticleId IdType="doi">10.3390/cancers8080075</ArticleId>
+            <ArticleId IdType="pubmed">27527216</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

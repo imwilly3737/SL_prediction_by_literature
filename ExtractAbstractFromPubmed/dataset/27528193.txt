@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528193</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2050-084X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>eLife</Title>
+                <ISOAbbreviation>Elife</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The aspartyl protease DDI2 activates Nrf1 to compensate for proteasome dysfunction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi">10.7554/eLife.18357</ELocationID>
+            <ELocationID EIdType="pii">e18357</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">In response to proteasome dysfunction, mammalian cells upregulate proteasome gene expression by activating Nrf1. Nrf1 is an endoplasmic reticulum-resident transcription factor that is continually retrotranslocated and degraded by the proteasome. Upon proteasome inhibition, Nrf1 escapes degradation and is cleaved to become active. However, the processing enzyme for Nrf1 remains obscure. Here we show that the aspartyl protease DNA-damage inducible 1 homolog 2 (DDI2) is required to cleave and activate Nrf1. Deletion of DDI2 reduced the cleaved form of Nrf1 and increased the full-length cytosolic form of Nrf1, resulting in poor upregulation of proteasomes in response to proteasome inhibition. These defects were restored by adding back wild-type DDI2 but not protease-defective DDI2. Our results provide a clue for blocking compensatory proteasome synthesis to improve cancer therapies targeting proteasomes.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Koizumi</LastName>
+                    <ForeName>Shun</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Irie</LastName>
+                    <ForeName>Taro</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hirayama</LastName>
+                    <ForeName>Shoshiro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sakurai</LastName>
+                    <ForeName>Yasuyuki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Yashiroda</LastName>
+                    <ForeName>Hideki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Naguro</LastName>
+                    <ForeName>Isao</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Cell Signaling, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Ichijo</LastName>
+                    <ForeName>Hidenori</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Cell Signaling, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hamazaki</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Murata</LastName>
+                    <ForeName>Shigeo</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3177-3503</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Protein Metabolism, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Elife</MedlineTA>
+            <NlmUniqueID>101579614</NlmUniqueID>
+            <ISSNLinking>2050-084X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">biochemistry</Keyword>
+            <Keyword MajorTopicYN="N">human</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.18357</ArticleId>
+            <ArticleId IdType="pubmed">27528193</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

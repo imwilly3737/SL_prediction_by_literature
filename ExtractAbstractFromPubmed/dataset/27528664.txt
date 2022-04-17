@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27528664</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-wide quantification of rare somatic mutations in normal human tissues using massively parallel sequencing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">201607794</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">We present the bottleneck sequencing system (BotSeqS), a next-generation sequencing method that simultaneously quantifies rare somatic point mutations across the mitochondrial and nuclear genomes. BotSeqS combines molecular barcoding with a simple dilution step immediately before library amplification. We use BotSeqS to show age- and tissue-dependent accumulations of rare mutations and demonstrate that somatic mutational burden in normal human tissues can vary by several orders of magnitude, depending on biologic and environmental factors. We further show major differences between the mutational patterns of the mitochondrial and nuclear genomes in normal tissues. Lastly, the mutation spectra of normal tissues were different from each other, but similar to those of the cancers that arose in them. This technology can provide insights into the number and nature of genetic alterations in normal tissues and can be used to address a variety of fundamental questions about the genomes of diseased tissues.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Hoang</LastName>
+                    <ForeName>Margaret L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Center for Cancer Genetics and Therapeutics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21287; The Howard Hughes Medical Institute, Johns Hopkins University, Baltimore, MD 21231;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kinde</LastName>
+                    <ForeName>Isaac</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Center for Cancer Genetics and Therapeutics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21287; The Howard Hughes Medical Institute, Johns Hopkins University, Baltimore, MD 21231;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tomasetti</LastName>
+                    <ForeName>Cristian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics and Bioinformatics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21205; Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>McMahon</LastName>
+                    <ForeName>K Wyatt</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Center for Cancer Genetics and Therapeutics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21287; The Howard Hughes Medical Institute, Johns Hopkins University, Baltimore, MD 21231;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Rosenquist</LastName>
+                    <ForeName>Thomas A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacological Sciences, Stony Brook University, Stony Brook, NY 11794;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Grollman</LastName>
+                    <ForeName>Arthur P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacological Sciences, Stony Brook University, Stony Brook, NY 11794; Department of Medicine, Stony Brook University, Stony Brook, NY 11794;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kinzler</LastName>
+                    <ForeName>Kenneth W</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Center for Cancer Genetics and Therapeutics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21287; bertvog@gmail.com kinzlke@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Vogelstein</LastName>
+                    <ForeName>Bert</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Center for Cancer Genetics and Therapeutics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21287; The Howard Hughes Medical Institute, Johns Hopkins University, Baltimore, MD 21231; Department of Pathology, Johns Hopkins School of Medicine, Baltimore, MD 21231 bertvog@gmail.com kinzlke@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Papadopoulos</LastName>
+                    <ForeName>Nickolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Center for Cancer Genetics and Therapeutics, Department of Oncology, Johns Hopkins Kimmel Cancer Center, Baltimore, MD 21287; Department of Pathology, Johns Hopkins School of Medicine, Baltimore, MD 21231.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">aging</Keyword>
+            <Keyword MajorTopicYN="N">genomics</Keyword>
+            <Keyword MajorTopicYN="N">next-generation sequencing</Keyword>
+            <Keyword MajorTopicYN="N">somatic mutation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1607794113</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1607794113</ArticleId>
+            <ArticleId IdType="pubmed">27528664</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

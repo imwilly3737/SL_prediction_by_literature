@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">27525019</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1741-427X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2016</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Evidence-based complementary and alternative medicine : eCAM</Title>
+                <ISOAbbreviation>Evid Based Complement Alternat Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chinese Herbal Mixture, Tien-Hsien Liquid, Induces G2/M Cycle Arrest and Radiosensitivity in MCF-7 Human Breast Cancer Cells through Mechanisms Involving DNMT1 and Rad51 Downregulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3251046</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2016/3251046</ELocationID>
+            <Abstract>
+                <AbstractText>The Chinese herbal mixture, Tien-Hsien Liquid (THL), has been proven to suppress the growth and invasiveness of cancer cells and is currently regarded as a complementary medicine for the treatment of cancer. Our previous study using acute promyelocytic leukemia cells uncovered its effect on the downregulation of DNA methyltransferase 1 (DNMT1) which is often overexpressed in cancer cells resulting in the repression of tumor suppressors via hypermethylation. Herein, we explored the effects of THL in MCF-7 breast cancer cells that also demonstrate elevated DNMT1. The results show that THL dose-dependently downregulated DNMT1 accompanied by the induction of tumor suppressors such as p21 and p15. THL arrested cell cycle in G2/M phase and decreased the protein levels of cyclin A, cyclin B1, phospho-pRb, and AKT. DNMT1 inhibition was previously reported to exert a radiosensitizing effect in cancer cells through the repression of DNA repair. We found that THL enhanced radiation-induced clonogenic cell death in MCF-7 cells and decreased the level of DNA double-strand break repair protein, Rad51. Our observations may be the result of DNMT1 downregulation. Due to the fact that DNMT1 inhibition is now a mainstream strategy for anticancer therapy, further clinical trials of THL to confirm its clinical efficacy are warranted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Chih-Jung</ForeName>
+                    <Initials>CJ</Initials>
+                    <Identifier Source="ORCID">0000-0001-6072-4033</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Comprehensive Cancer Center, Taipei Medical University, Taipei 11031, Taiwan; Cancer Center, Wan Fang Hospital, Taipei Medical University, Taipei 11696, Taiwan; Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chow</LastName>
+                    <ForeName>Jyh-Ming</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan; Division of Hematology and Medical Oncology, Department of Internal Medicine, Wan Fang Hospital, Taipei Medical University, Taipei 11696, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Chia-Ming</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Formosa Cancer Foundation, Taipei 10597, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuo</LastName>
+                    <ForeName>Hui-Ching</ForeName>
+                    <Initials>HC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Center, Wan Fang Hospital, Taipei Medical University, Taipei 11696, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Chia-Lun</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology and Medical Oncology, Department of Internal Medicine, Wan Fang Hospital, Taipei Medical University, Taipei 11696, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hsin-Lun</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Ph.D. Program for Translational Medicine, Taipei Medical University-Academia Sinica, Taipei 11031, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>I-Chun</ForeName>
+                    <Initials>IC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Radiation Oncology, Department of Oncology, Taipei Veterans General Hospital, Taipei 11217, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chuang</LastName>
+                    <ForeName>Shuang-En</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Cancer Research, National Health Research Institutes, Miaoli County 35053, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Gi-Ming</ForeName>
+                    <Initials>GM</Initials>
+                    <Identifier Source="ORCID">0000-0001-6123-8870</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Comprehensive Cancer Center, Taipei Medical University, Taipei 11031, Taiwan; Cancer Center, Wan Fang Hospital, Taipei Medical University, Taipei 11696, Taiwan; Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan; Division of Hematology and Medical Oncology, Department of Internal Medicine, Wan Fang Hospital, Taipei Medical University, Taipei 11696, Taiwan; National Institute of Cancer Research, National Health Research Institutes, Miaoli County 35053, Taiwan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Evid Based Complement Alternat Med</MedlineTA>
+            <NlmUniqueID>101215021</NlmUniqueID>
+            <ISSNLinking>1741-427X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2016/3251046</ArticleId>
+            <ArticleId IdType="pubmed">27525019</ArticleId>
+            <ArticleId IdType="pmc">PMC4971317</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

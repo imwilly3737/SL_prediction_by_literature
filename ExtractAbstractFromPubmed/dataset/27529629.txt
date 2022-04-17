@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529629</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CpG Methylation Analysis of HPV16 in Laser Capture Microdissected Archival Tissue and Whole Tissue Sections from High Grade Anal Squamous Intraepithelial Lesions: A Potential Disease Biomarker.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0160673</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi">10.1371/journal.pone.0160673</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Incidence and mortality rates of anal cancer are increasing globally. More than 90% of anal squamous cell carcinomas (ASCC) are associated with human papillomavirus (HPV). Studies on HPV-related anogenital lesions have shown that patterns of methylation of viral and cellular DNA targets could potentially be developed as disease biomarkers. Lesion-specific DNA isolated from formalin-fixed paraffin-embedded (FFPE) tissues from existing or prospective patient cohorts may constitute a valuable resource for methylation analysis. However, low concentrations of DNA make these samples technically challenging to analyse using existing methods. We therefore set out to develop a sensitive and reproducible nested PCR-pyrosequencing based method to accurately quantify methylation at 10 CpG sites within the E2BS1, E2BS2,3,4 and Sp1 binding sites in the viral upstream regulatory region of HPV16 genome. Methylation analyses using primary and nested PCR-pyrosequencing on 52 FFPE tissue [26 paired whole tissue sections (WTS) and laser capture microdissected (LCM) tissues] from patients with anal squamous intraepithelial lesions was performed. Using nested PCR, methylation results were obtained for the E2BS1, E2BS2,3,4 and Sp1 binding sites in 86.4% of the WTS and 81.8% of the LCM samples. Methylation patterns were strongly correlated within median values of matched pairs of WTS and LCM sections, but overall methylation was higher in LCM samples at different CpG sites. High grade lesions showed low methylation levels in the E2BS1 and E2BS2 regions, with increased methylation detected in the E2BS,3,4/Sp1 regions, showing the highest methylation at CpG site 37. The method developed is highly sensitive in samples with low amounts of DNA and demonstrated to be suitable for archival samples. Our data shows a possible role of specific methylation in the HPV16 URR for detection of HSIL.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Molano</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional HPV Labnet Reference Laboratory, Department of Microbiology and Infectious Diseases, The Royal Women's Hospital, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tabrizi</LastName>
+                    <ForeName>Sepehr N</ForeName>
+                    <Initials>SN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional HPV Labnet Reference Laboratory, Department of Microbiology and Infectious Diseases, The Royal Women's Hospital, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, University of Melbourne and Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Garland</LastName>
+                    <ForeName>Suzanne M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional HPV Labnet Reference Laboratory, Department of Microbiology and Infectious Diseases, The Royal Women's Hospital, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynaecology, University of Melbourne and Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Roberts</LastName>
+                    <ForeName>Jennifer M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GynaePath, Douglass Hanly Moir Pathology, Macquarie Park, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Machalek</LastName>
+                    <ForeName>Dorothy A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional HPV Labnet Reference Laboratory, Department of Microbiology and Infectious Diseases, The Royal Women's Hospital, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Phillips</LastName>
+                    <ForeName>Samuel</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional HPV Labnet Reference Laboratory, Department of Microbiology and Infectious Diseases, The Royal Women's Hospital, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Chandler</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Australian Genome Research Facility, Perth, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Hillman</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Western Sydney Sexual Health Centre, Western Sydney Local Health District, Parramatta, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sydney Medical School, Westmead, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Grulich</LastName>
+                    <ForeName>Andrew E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Jin</LastName>
+                    <ForeName>Fengyi</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Poynten</LastName>
+                    <ForeName>I Mary</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Templeton</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Kirby Institute, University of New South Wales, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>RPA Sexual Health, Royal Prince Alfred Hospital, Camperdown, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Cornall</LastName>
+                    <ForeName>Alyssa M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional HPV Labnet Reference Laboratory, Department of Microbiology and Infectious Diseases, The Royal Women's Hospital, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Murdoch Children's Research Institute, Parkville, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <CollectiveName>SPANC Study Team</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0160673</ArticleId>
+            <ArticleId IdType="pii">PONE-D-16-11315</ArticleId>
+            <ArticleId IdType="pubmed">27529629</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

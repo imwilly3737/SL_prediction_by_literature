@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27529634</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>8</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-6882</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical chemistry</Title>
+                <ISOAbbreviation>Anal. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Probing 3D Collective Cancer Invasion Using Double-Stranded Locked Nucleic Acid Biosensors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Cancer is a leading cause of death worldwide and metastases are responsible for over 90% of human cancer deaths. There is an urgent need to develop novel therapeutics for suppressing cancer invasion, the initial step of metastasis. Nevertheless, the regulation of cancer invasion is poorly understood due to a paucity of tools for monitoring the invasion process in 3D microenvironments. Here, we report a double-stranded locked nucleic acid (dsLNA) biosensor for investigating 3D collective cancer invasion. By incorporating multiphoton microscopy and the dsLNA biosensor, we perform dynamic single cell gene expression analysis while simultaneously characterizing the biomechanical interaction between the invading sprouts and the extracellular matrix. Gene profiling of invasive leader cells and detached cells suggest distinctive signaling mechanisms involved in collective and individual invasion in the 3D microenvironment. Our results underscore the involvement of Notch signaling in 3D collective cancer invasion, which warrants further investigation toward antimetastasis therapy in the future.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Dean</LastName>
+                    <ForeName>Zachary S</ForeName>
+                    <Initials>ZS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, The University of Arizona , Tucson, Arizona 85721, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Elias</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, The University of Arizona , Tucson, Arizona 85721, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Jamilpour</LastName>
+                    <ForeName>Nima</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Aerospace and Mechanical Engineering, The University of Arizona , Tucson, Arizona 85721, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Utzinger</LastName>
+                    <ForeName>Urs</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, The University of Arizona , Tucson, Arizona 85721, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Wong</LastName>
+                    <ForeName>Pak Kin</ForeName>
+                    <Initials>PK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, The University of Arizona , Tucson, Arizona 85721, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Aerospace and Mechanical Engineering, The University of Arizona , Tucson, Arizona 85721, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Mechanical Engineering and Surgery, The Pennsylvania State University , University Park, Pennsylvania 16802, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Anal Chem</MedlineTA>
+            <NlmUniqueID>0370536</NlmUniqueID>
+            <ISSNLinking>0003-2700</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.analchem.6b02608</ArticleId>
+            <ArticleId IdType="pubmed">27529634</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
