@@ -1,0 +1,8 @@
+package object;
+
+public class CCLECategory {
+	public String id;
+	public String resource;
+	public String name;
+	public String cancer;
+}

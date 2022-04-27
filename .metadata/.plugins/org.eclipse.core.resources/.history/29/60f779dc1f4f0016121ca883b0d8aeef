@@ -1,0 +1,81 @@
+package geneExpressionCCLE;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.HashSet;
+
+import object.CosmicMutantGene;
+
+public class KRASmutantCellLineGeneExpression {
+	private HashSet<String> KRASmclSet;
+	private String COSMICFile,CellLineFile;
+	private ArrayList<Boolean> KRASmArray;
+	public KRASmutantCellLineGeneExpression(){
+		KRASmclSet = new HashSet<>();
+		COSMICFile = "../../Cosmic/CosmicMutantExport.tsv";
+		CellLineFile = "../../CCLE/ccleCellLine2Disease.txt";
+	}
+	public void getKRASmutantCellLine() throws IOException{
+		BufferedReader br = new BufferedReader(new FileReader(COSMICFile));
+		while(br.ready()){
+			CosmicMutantGene cmg = new CosmicMutantGene(br.readLine(),"\t");
+			if (cmg.Gene_name.equals("KRAS")){
+				KRASmclSet.add(cmg.Sample_name);
+			}
+		}
+		br.close();
+	}
+	public void getColonCancerCellLine() throws IOException{
+		BufferedReader br = new BufferedReader(new FileReader(CellLineFile));
+		while (br.ready()){
+			String[] eTab = br.readLine().split("\t");
+			String key = eTab[0];
+			if (key.equals("D003110")){
+				KRASmArray = new ArrayList<>();
+				for (int i=1;i<eTab.length;i++){
+					KRASmArray.add(KRASmclSet.contains(eTab[i]));
+				}
+			}
+		}
+		br.close();
+	}
+	private double[] readGeneFromColonCancer(String gene) throws SQLException{
+		ArrayList<String> cellLine = dis2CL.get(disease);
+		double[] geneX = new double[cellLine.size()];
+		for (int i=0;i<cellLine.size();i++)
+			geneX[i]=0;
+		int rowCount = 0;
+		Statement stmt = null;
+		stmt = conn.createStatement();
+		String sql;
+		if (dataset.equals("CCLE"))
+			gene = gias.getSymbolbyID(gene);
+		if (gene == null)
+			return null;
+		sql = "SELECT * FROM "+database+" WHERE "+geneCol+" ='"+gene+"'";
+		ResultSet rs = stmt.executeQuery(sql);
+		while(rs.next()){
+			for (int i=0;i<cellLine.size();i++){
+				geneX[i] += rs.getDouble(cellLine.get(i));
+			}
+			rowCount++;
+		}
+		rs.close();
+		stmt.close();
+		if (rowCount == 0)
+			return null;
+		for (int i = 0;i<cellLine.size();i++)
+			geneX[i]/=rowCount;
+		return geneX;
+	}
+	static public void main (String[] args){
+	
+	}
+}
+

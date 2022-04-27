@@ -1,0 +1,173 @@
+package triggerTermMining;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map.Entry;
+
+import opennlp.tools.chunker.ChunkerME;
+import opennlp.tools.chunker.ChunkerModel;
+import opennlp.tools.postag.POSModel;
+import opennlp.tools.postag.POSTaggerME;
+import opennlp.tools.tokenize.Tokenizer;
+import opennlp.tools.tokenize.TokenizerME;
+import opennlp.tools.tokenize.TokenizerModel;
+import opennlp.tools.util.Span;
+
+public class EssentialGeneTriggerTerm {
+	private String originalPath,stopWordPath;
+	private String[] fileList;
+	private HashSet<String> stopWord;
+	private String tokens[];
+	private String tags[];
+	private String chunkTags[];
+	private Span tokenSpans[];
+	private Tokenizer tokenizer;
+	private POSTaggerME tagger;
+	private ChunkerME chunker;
+	private TokenizerModel tModel;
+	private POSModel pModel;
+	private ChunkerModel cModel;
+	private BufferedWriter logWriter;
+	private BufferedWriter patternWriter;
+	private String[] extractPOS;
+	public EssentialGeneTriggerTerm() throws IOException{
+		loadNLPmodels();
+		tokenizer = new TokenizerME(tModel);	
+		tagger = new POSTaggerME(pModel);
+		chunker = new ChunkerME(cModel);
+		File dataSetDir = new File("../data/DatasetXML(pattern sentences)");
+		originalPath = dataSetDir.getAbsolutePath() + File.separator;
+		fileList = dataSetDir.list();
+		
+		stopWordPath = "../data/stopWords.txt";
+		loadStopWord();
+		
+		logWriter = new BufferedWriter(new FileWriter("./triggerTermLog.txt"));
+		patternWriter = new BufferedWriter(new FileWriter("./allTriggerTerms.txt"));
+		
+		extractPOS = new String[]{"J","N","R","V"};
+		/*
+		 *  J: Adjective
+		 *  N: Noun
+		 *  R: Adverb
+		 *  V: Verb
+		 */
+		
+	}
+	private void loadNLPmodels() {
+		InputStream modelIn = null;
+		try {
+			modelIn = new FileInputStream("./nlp_model/en-token.bin");
+			tModel = new TokenizerModel(modelIn);
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (modelIn != null) {
+				try {
+					modelIn.close();
+				} catch (IOException e) {
+				}
+			}
+		}
+		
+		modelIn = null;
+		try {
+			modelIn = new FileInputStream("./nlp_model/en-pos-maxent.bin");
+			pModel = new POSModel(modelIn);
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (modelIn != null) {
+				try {
+					modelIn.close();
+				} catch (IOException e) {
+				}
+			}
+		}
+		
+		modelIn = null;
+		try {
+			modelIn = new FileInputStream("./nlp_model/en-chunker.bin");
+			cModel = new ChunkerModel(modelIn);
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (modelIn != null) {
+				try {
+					modelIn.close();
+				} catch (IOException e) {
+				}
+			}
+		}
+	}
+	public void loadStopWord() throws IOException{
+		if (stopWord == null)
+			stopWord = new HashSet<String>();
+		BufferedReader br = new BufferedReader(new FileReader(stopWordPath));
+		while (br.ready()){
+			String sw = br.readLine();
+			stopWord.add(sw);
+		}
+		br.close();
+	}
+	public void extractPattern() throws IOException{
+		for (int i=0;i<HashMap<String,Integer>> triggerMap = new HashMap<>();
+		for (String eFile: fileList){
+			BufferedReader br = new BufferedReader(new FileReader(originalPath+eFile));
+			HashSet<String> entitySet = new HashSet<>();
+			HashSet<String> GeneIDSet = new HashSet<>();
+			HashSet<String> DisIDSet = new HashSet<>();
+			while (br.ready()){
+				String senLine = br.readLine();
+				if (senLine.split("\\|").length == 1)
+					break;
+				String id = senLine.split("\\|")[0];
+				senLine = senLine.split("\\|")[2];
+				while (br.ready()){
+					String entityLine = br.readLine();
+					if (!entityLine.contains("\t")){	//entity line end, check essential gene
+						extractTriggerTerm(senLine,entitySet);
+						GeneIDSet.clear();
+						DisIDSet.clear();
+						entitySet.clear();
+						break;
+					}
+					String entityID = entityLine.split("\t")[5];
+					if (entityLine.split("\t")[4].equals("Gene")){
+						GeneIDSet.add(entityID);
+						entitySet.add(entityLine);
+					}
+					else{
+						DisIDSet.add(entityID);
+						entitySet.add(entityLine);
+					}
+				}
+			}
+			br.close();
+			System.out.println(eFile+" DONE!");
+		}
+		patternMap = sortPatternMap(patternMap);
+		int topN = 100, i=0;
+		for (Entry<String,Integer> entry: patternMap.entrySet()){
+			if (i++ < topN)
+				System.out.println(entry.getKey()+" "+entry.getValue());
+			patternWriter.write(entry.getKey()+"\t#"+entry.getValue()+"\n");
+			
+		}
+		patternWriter.close();
+		logWriter.close();
+	}
+	public void extract
+	static public void main(String args[]){
+		
+	}
+}

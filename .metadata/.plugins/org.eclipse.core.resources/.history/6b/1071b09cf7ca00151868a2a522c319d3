@@ -1,0 +1,13 @@
+package pubmed;
+
+import abner.Tagger;
+
+public class GeneNER {
+	public static void main(String args[]){
+		Tagger tagger = new Tagger();
+		tagger.tagIOB("Pathogenesis of human enterovirulent bacteria: lessons from cultured, fully differentiated human colon cancer cell lines.");
+		
+		String taggedStr = tagger.tagABNER("Pathogenesis of human enterovirulent bacteria: lessons from cultured, fully differentiated human colon cancer cell lines.");
+		System.out.println(taggedStr.replaceAll(" ","-"));
+	}
+}

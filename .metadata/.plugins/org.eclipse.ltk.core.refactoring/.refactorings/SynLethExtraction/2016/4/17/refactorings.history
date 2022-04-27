@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;goldstandard&apos; in &apos;evaluation.EvaluationSynLethDB&apos; to &apos;goldStandard&apos;&#x0D;&#x0A;- Original project: &apos;PatternLearning&apos;&#x0D;&#x0A;- Original element: &apos;evaluation.EvaluationSynLethDB.goldstandard&apos;&#x0D;&#x0A;- Renamed element: &apos;evaluation.EvaluationSynLethDB.goldStandard&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;goldstandard&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;evaluation{EvaluationSynLethDB.java[EvaluationSynLethDB^goldstandard" name="goldStandard" references="true" setter="false" stamp="1460944309981" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Preprocess&apos; to &apos;PatternLearning&apos;&#x0D;&#x0A;- Original element: &apos;Preprocess&apos;&#x0D;&#x0A;- Renamed element: &apos;Preprocess&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Preprocess&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Preprocess" name="PatternLearning" references="true" stamp="1456729704989" version="1.0"/>
+</session>

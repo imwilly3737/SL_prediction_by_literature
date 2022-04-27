@@ -1,0 +1,83 @@
+package ExtractAbstractFromPubmed;
+
+import javax.xml.parsers.*;
+
+import org.w3c.dom.*;
+
+import java.net.*;
+import java.io.*;
+
+public class ExtractAbstracts {
+	public static void main(String args[]) {
+		String temp, movePath;
+		
+
+		File dataSetDir = new File("../data/DatasetXML(cancer)");
+
+		if (dataSetDir.exists())
+			movePath = dataSetDir.getAbsolutePath() + File.separator;
+		else {
+			dataSetDir.mkdir();
+			movePath = dataSetDir.getAbsolutePath() + File.separator;
+		}
+
+		/*============================ Search PubMed Abstract==============================*/
+		try{
+			URLParameters urlp = new URLParameters();
+			String urlStr = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term="+urlp.queryWord+"+AND+"+urlp.organism+"[Organism]&retmax="+urlp.retMax+"&retstart="+urlp.retStart;
+			URL url = new URL(urlStr);
+			URLConnection connect = url.openConnection();
+
+			BufferedReader in = new BufferedReader(new InputStreamReader(connect.getInputStream(), "UTF-8"));
+			BufferedWriter out = new BufferedWriter(new FileWriter("pubmedDataSet.txt"));
+
+			while ((temp = in.readLine()) != null) {
+				out.write(temp);
+				out.newLine();
+			}
+
+			in.close();
+			out.close();
+		}catch(Exception e){
+			e.printStackTrace();
+			return;
+		}
+		/*==================================================================================*/
+		
+		/*============================= Fetch PubMed Abstract==============================*/
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+
+		factory.setIgnoringComments(true);
+		factory.setCoalescing(true);
+		factory.setNamespaceAware(false);
+		factory.setValidating(false);
+
+		NodeList idList = null;
+		try{
+			DocumentBuilder parser = factory.newDocumentBuilder();
+			Document document = parser.parse(new File("pubmedDataSet.txt"));
+			idList = document.getElementsByTagName("Id");
+		}catch(Exception e){
+			e.printStackTrace();
+			return;
+		}
+		String[] pmidList = new String[idList.getLength()];
+		for (int i = 0; i < idList.getLength(); i++) {
+			Element sectionIDList = (Element) idList.item(i);
+			Node PMID = sectionIDList.getFirstChild();
+			String pmid = PMID.getNodeValue();
+			pmidList[i] = new String(pmid);
+		}
+		/*Multi-thread*/
+		int totalThread = 8;
+		ExtractAbstractsThread [] runnableList = new ExtractAbstractsThread[totalThread];
+		for (int i = 0 ;i< totalThread ;i++){
+			runnableList[i] = new ExtractAbstractsThread(i,totalThread,pmidList,movePath);
+			runnableList[i].start();
+			System.out.println(i);
+		}
+		
+		/*==================================================================================*/
+	}
+}
+

@@ -1,0 +1,20 @@
+package ExtractAbstractFromPubmed;
+
+public class URLParameters {
+	public int retMax;
+	public int retStart;
+	public String queryWord;
+	public String organism;
+	public URLParameters(){
+		retMax = 500000;
+		retStart = 0;
+		queryWord = "cancer";
+		organism = "human";
+	}
+	public URLParameters(int retMax,int retStart,String queryWord,String organism){
+		this.retMax = retMax;
+		this.retStart = retStart;
+		this.queryWord = queryWord;
+		this.organism = organism;
+	}
+}

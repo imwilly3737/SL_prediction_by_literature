@@ -1,0 +1,139 @@
+package pubmed;
+
+import javax.xml.parsers.*;
+import org.w3c.dom.*;
+
+import java.net.*;
+import java.io.*;
+
+class ExtractAbstractsThread implements Runnable{
+	private int partNum;
+	private int totalThread;
+	private NodeList idList;
+	private String movePath;
+	private String baseFetch;
+	private Thread t;
+	public ExtractAbstractsThread(int part,int total,NodeList idList,String movePath){
+		partNum = part;
+		totalThread = total;
+		this.idList = idList;
+		this.movePath = movePath;
+		baseFetch = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml&id=";
+	}
+	public void start(){
+		if (t == null)
+	      {
+	         t = new Thread(this);
+	         t.start ();
+	      }
+	}
+	public void run(){
+		String fetch,temp;
+		int idx = 0;
+		for (int i = partNum; i < idList.getLength(); i+=totalThread) {
+			Element sectionIDList = (Element) idList.item(i);
+			Node PMID = sectionIDList.getFirstChild();
+
+			if (PMID != null) {
+				fetch = baseFetch + PMID.getNodeValue();
+
+				try {
+					File fileWrite = new File(movePath + PMID.getNodeValue() + ".txt");
+					if (fileWrite.exists())
+						continue;
+					
+					URL urlFetch = new URL(fetch);
+					URLConnection connectFetch = urlFetch.openConnection();
+
+					BufferedReader fileIN = new BufferedReader(new InputStreamReader(connectFetch.getInputStream(), "UTF-8"));
+					BufferedWriter fileOUT = new BufferedWriter(new FileWriter(movePath + PMID.getNodeValue() + ".txt"));
+
+					while ((temp = fileIN.readLine()) != null) {
+						fileOUT.write(temp);
+						fileOUT.newLine();
+					}
+
+					fileIN.close();
+					fileOUT.close();
+				} catch (Exception e) {
+					e.printStackTrace();
+					i--;
+					continue;
+				}
+
+				idx += 1;
+				if (idx%10 == 0 )
+					System.out.println(idx + ": " + PMID.getNodeValue()	+ ".txt DONE!! (at "+partNum+" Thread)");
+
+			}
+		}
+	}
+}
+public class ExtractAbstracts {
+	public static void main(String args[]) {
+		String temp, movePath, fetch;
+		
+		int idx = 0;
+		int retstart = 2486433;
+
+		File dataSetDir = new File("../data/DatasetXML");
+
+		if (dataSetDir.exists())
+			movePath = dataSetDir.getAbsolutePath() + File.separator;
+		else {
+			dataSetDir.mkdir();
+			movePath = dataSetDir.getAbsolutePath() + File.separator;
+		}
+
+		/*============================ Search PubMed Abstract==============================*/
+		try{
+			// URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=ggh+AND+human[Organism]&retmax=1000000");
+			URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=cancer+AND+human[Organism]&retmax=5000000&retstart="+ retstart);
+			// URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=cell+line+AND+human[Organism]&retmax=1000000");
+			URLConnection connect = url.openConnection();
+
+			BufferedReader in = new BufferedReader(new InputStreamReader(connect.getInputStream(), "UTF-8"));
+			BufferedWriter out = new BufferedWriter(new FileWriter("pubmedDataSet.txt"));
+
+			while ((temp = in.readLine()) != null) {
+				out.write(temp);
+				out.newLine();
+			}
+
+			in.close();
+			out.close();
+		}catch(Exception e){
+			e.printStackTrace();
+			return;
+		}
+		/*==================================================================================*/
+
+		/*============================= Fetch PubMed Abstract==============================*/
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+
+		factory.setIgnoringComments(true);
+		factory.setCoalescing(true);
+		factory.setNamespaceAware(false);
+		factory.setValidating(false);
+
+		NodeList idList = null;
+		try{
+			DocumentBuilder parser = factory.newDocumentBuilder();
+			Document document = parser.parse(new File("pubmedDataSet.txt"));
+			idList = document.getElementsByTagName("Id");
+		}catch(Exception e){
+			e.printStackTrace();
+			return;
+		}
+
+		/* Multi-thread */
+		int totalThread = 8;
+		ExtractAbstractsThread [] runnableList = new ExtractAbstractsThread[totalThread];
+		for (int i = 0 ;i< totalThread ;i++){
+			runnableList[i] = new ExtractAbstractsThread(i,totalThread,idList,movePath);
+			runnableList[i].start();
+		}
+		
+		/*==================================================================================*/
+	}
+}

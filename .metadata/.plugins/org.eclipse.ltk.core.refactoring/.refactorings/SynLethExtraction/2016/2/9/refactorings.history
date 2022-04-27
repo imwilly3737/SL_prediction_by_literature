@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pubmed.ExtractAbstractsfromPubtator&apos; to &apos;ExtractAbstractsfromPubtatorGene&apos;&#x0D;&#x0A;- Original project: &apos;Preprocess&apos;&#x0D;&#x0A;- Original element: &apos;pubmed.ExtractAbstractsfromPubtator&apos;&#x0D;&#x0A;- Renamed element: &apos;pubmed.ExtractAbstractsfromPubtatorGene&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExtractAbstractsfromPubtator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pubmed{ExtractAbstractsfromPubtator.java[ExtractAbstractsfromPubtator" matchStrategy="1" name="ExtractAbstractsfromPubtatorGene" qualified="false" references="true" similarDeclarations="false" stamp="1456476872881" textual="false" version="1.0"/>
+</session>

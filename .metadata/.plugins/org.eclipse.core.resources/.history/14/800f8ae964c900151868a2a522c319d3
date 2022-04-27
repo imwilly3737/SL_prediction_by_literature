@@ -1,0 +1,110 @@
+package pubmed;
+
+import javax.xml.parsers.*;
+import org.w3c.dom.*;
+
+import java.net.*;
+import java.io.*;
+
+public class ExtractAbstracts {
+	public static void main(String args[]) {
+		String temp, movePath, fetch;
+		String baseFetch = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml&id=";
+		int idx = 0;
+		int retstart = 2165433;
+
+		File dataSetDir = new File("../data/DatasetXML");
+
+		if (dataSetDir.exists())
+			movePath = dataSetDir.getAbsolutePath() + File.separator;
+		else {
+			dataSetDir.mkdir();
+			movePath = dataSetDir.getAbsolutePath() + File.separator;
+		}
+
+		/*============================ Search PubMed Abstract==============================*/
+		try{
+			// URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=ggh+AND+human[Organism]&retmax=1000000");
+			URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=cancer+AND+human[Organism]&retmax=5000000&retstart="+ retstart);
+			// URL url = new URL("http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=cell+line+AND+human[Organism]&retmax=1000000");
+			URLConnection connect = url.openConnection();
+
+			BufferedReader in = new BufferedReader(new InputStreamReader(connect.getInputStream(), "UTF-8"));
+			BufferedWriter out = new BufferedWriter(new FileWriter("pubmedDataSet.txt"));
+
+			while ((temp = in.readLine()) != null) {
+				out.write(temp);
+				out.newLine();
+			}
+
+			in.close();
+			out.close();
+		}catch(Exception e){
+			e.printStackTrace();
+			return;
+		}
+		/*==================================================================================*/
+
+		/*============================= Fetch PubMed Abstract==============================*/
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+
+		factory.setIgnoringComments(true);
+		factory.setCoalescing(true);
+		factory.setNamespaceAware(false);
+		factory.setValidating(false);
+
+		NodeList idList = null;
+		try{
+			DocumentBuilder parser = factory.newDocumentBuilder();
+			Document document = parser.parse(new File("pubmedDataSet.txt"));
+			idList = document.getElementsByTagName("Id");
+		}catch(Exception e){
+			e.printStackTrace();
+			return;
+		}
+
+		
+
+		for (int i = 0; i < idList.getLength(); i++) {
+			Element sectionIDList = (Element) idList.item(i);
+			Node PMID = sectionIDList.getFirstChild();
+
+			if (PMID != null) {
+				fetch = baseFetch + PMID.getNodeValue();
+
+				try {
+					File fileWrite = new File(movePath + PMID.getNodeValue() + ".txt");
+					if (fileWrite.exists())
+						continue;
+					
+					URL urlFetch = new URL(fetch);
+					URLConnection connectFetch = urlFetch.openConnection();
+
+					BufferedReader fileIN = new BufferedReader(new InputStreamReader(connectFetch.getInputStream(), "UTF-8"));
+					BufferedWriter fileOUT = new BufferedWriter(new FileWriter(movePath + PMID.getNodeValue() + ".txt"));
+
+					while ((temp = fileIN.readLine()) != null) {
+						fileOUT.write(temp);
+						fileOUT.newLine();
+					}
+
+					fileIN.close();
+					fileOUT.close();
+				} catch (Exception e) {
+					e.printStackTrace();
+					i--;
+					continue;
+				}
+
+				idx += 1;
+				if (idx%1000 == 0 )
+					System.out.println(idx + ": " + PMID.getNodeValue()	+ ".txt DONE!!");
+
+				// if(idx==1000) // the number of documents that you want to
+				// fetch
+				// break Label ;
+			}
+		}
+		/*==================================================================================*/
+	}
+}
