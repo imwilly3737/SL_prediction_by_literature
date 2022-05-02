@@ -1,5 +1,5 @@
 # SL_prediction_by_literature
-**Literature-based translation from synthetic lethality screening into therapeutics targets: CD82 is a novel target for KRAS mutation in colon cancer**
+**Literature-based translation from synthetic lethality screening into therapeutics targets: CD82 is a novel target for KRAS mutation in colon cancer**  
 We introduced a different approach to prioritize synthetic lethality (SL) gene pairs through literature mining and RAS -mutant high-throughput screening (HTS) data. We matched essential genes from text mining and mutant genes from the COSMIC and CCLE HTS data to build a prediction model of SL gene pairs. CCLE gene expression data were used to enrich the essential-mutant SL gene pairs using Spearman’s correlation coefficient and literature mining. Using RAS -mutant HTS data validation, we identified two potential SL gene pairs, including the CD82 (essential gene)– KRAS (mutant gene) pair and CD82 – NRAS pair in the DLD-1 colon cancer cell line (Spearman correlation p- values = 0.004786 and 0.00249, respectively). Based on further annotations by PubChem, we observed that digitonin targeted the complex comprising CD82 . Moreover, we experimentally demonstrated that CD82 exhibited selective vulnerability in KRAS -mutant colorectal cancer. We identify CD82 as a novel target for RAS- mutant colon cancer.
 
 # IDE and Environment
