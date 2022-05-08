@@ -14,7 +14,8 @@ Also, required reference java libraries are:
 10. slf4j-log4j12-1.7.18.jar
 11. slf4j-simple-1.7.18.jar
 12. stanford-english-corenlp-2016-01-10-models.jar
-13. stanford-parser.jar  
+13. stanford-parser.jar
+  
 Below is descriptions of all packages.
 
 ### correlation
